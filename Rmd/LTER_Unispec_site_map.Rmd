@@ -1,0 +1,56 @@
+---
+output: html_document
+---
+
+# **LTER plot and unispec maps**
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+<img src="../Images/LTER_heath_map.png" class="center">
+```{r, echo=FALSE}
+xfun::embed_file('../Images/LTER_heath_map.png', text = 'Click HERE to download image')
+```  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+## **LTER Heath NDVI maps**  
+<img src="../Images/LTER_heath_NDVI_map.png" class="center">  
+```{r, echo=FALSE}
+xfun::embed_file('../Images/LTER_heath_NDVI_map.png', text = 'Click HERE to download image')
+``` 
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+<img src="../Images/LTER_06MAT_map.png" class="center">  
+```{r, echo=FALSE}
+xfun::embed_file('../Images/LTER_06MAT_map.png', text = 'Click HERE to download image')
+``` 
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+## **LTER 06MAT NDVI maps**  
+<img src="../Images/LTER_06MAT_NDVI_map.png" class="center">  
+```{r, echo=FALSE}
+xfun::embed_file('../Images/LTER_06MAT_NDVI_map.png', text = 'Click HERE to download image')
+``` 
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+<img src="../Images/LTER_89MAT_map.png" class="center">  
+```{r, echo=FALSE}
+xfun::embed_file('../Images/LTER_89MAT_map.png', text = 'Click HERE to download image')
+```
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+## **LTER 89MAT NDVI maps**  
+<img src="../Images/LTER_89MAT_NDVI_map.png" class="center"> 
+```{r, echo=FALSE}
+xfun::embed_file('../Images/LTER_89MAT_NDVI_map.png', text = 'Click HERE to download image')
+```
+

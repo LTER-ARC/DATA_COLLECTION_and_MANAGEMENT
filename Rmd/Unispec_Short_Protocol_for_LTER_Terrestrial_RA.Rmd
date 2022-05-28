@@ -1,0 +1,67 @@
+---
+title: "Unispec Short Protocol for LTER Terrestrial RA"
+author: "Nicole Wiliamson"
+date: "5/26/2022"
+output: html_document
+---  
+  
+**Originally created by Ruby An 2018**
+  
+*Complete these steps at each site and each time you are setting up the UniSpec DC.* **Before operating read through the handout A People’s Guide to Unispec-DC Measurement and Data Prep by Jeremy K. Caves.** *Consult the UniSpec-DC manual (in binder) for more information on the instrument.*  
+
+### **Why Measure:** 
+
+Unispec measurements provide a wealth of information on the status of the vegetation, from phenology to productivity and beyond. The protocol may take a while to master, but is set-up to optimize efficiency and before long will become second nature. Keep in mind that you are adding to over a decade of spectral reflectance data! Enjoy your time out on the tundra & do your best to make quality measurements.  
+
+### **Where to Measure:** 
+
+Use the [LTER plot/NDVI maps](LTER_Unispec_site_map.html) to determine order and location of measurements. There are 10 sites, 1-4 blocks per site, many plots for multiple treatments per block. Typically, make 5 measurements per plot along 5m long Unispec transect as marked on maps. Scans are made 0.5m into plot (given monopod arm length). This is the default order in which the “unispec_key.csv” file is organized, telling you which measurement belongs to which plot.  
+
+1. **Move between plots** at a site following dashed line with arrow in LTER Site Maps.  
+1. **Make 5 measurements per plot** in direction of solid line with arrow marking 5m Unispec transect. Each location is marked with a round silver tag on the boardwalk or stake (except DHT, HST, SHB, some NANT plots – do your best to estimate even spacing).  
+1. **Place monopod base on edge of plot** so that monopod arm faces over plot. Align with stakes marking plot edge, and place in line with the silver tag so that the monopod arm is perpendicular to plot edge. For some locations, you may need to place monopod base further into the plot to avoid measuring flag or puddle (see complete list of these locations in [APPENDIX A] below). Monopod arm should still be perpendicular to plot edge.  
+
+### **When to Measure:** 
+
+1. **Try to measure each site once a week.** This is often not possible given weather conditions. Consult PI on site and timing priorities for each summer. Try to capture green-up (early-mid June), peak greenness (early-mid July), and senescence (mid-August).  
+1. **Minimize shadows by measuring close to Solar Noon (13:00).** Try not to start before 10:00 or go past 15:00. If it is slightly overcast with more diffuse light, shadows are less of a problem. Try to measure sites at similar times of day within throughout the summer. Example Unispec schedule typical of 2017-2018 summers when good weather:  
+  + Day 1: up the hill to MAT, LMAT, WSG-inlet in the morning; drive to p-loop WSG-outlet, DHT afternoon 
+  + Day 2: boat across the lake to NANT, MNAT in the morning; drive to SHB1, SHB2, HST in the afternoon  
+1. **What is “good enough” weather to spec?** Since we’re using the Dual Channel Unispec, varying light levels are less important for measurements, as each scan takes into account upward and downward light. Highly variable cloud cover does makes it difficult as the raw spectra will change a lot and can easily max out (above 65,000 A/D). Be sure there is enough light to make good readings (max of CHANNEL A around 50,000 A/D). Balance getting any data with getting good data and always make note weather conditions and other factors!  
+1. **Avoid taking measurements of wet vegetation.** Water droplets on leaves can artificially lower the NDVI. You may need to wait for vegetation to dry. 
+
+### **What to Bring:**  
+
+**Charge the Unispec the DAY BEFORE** you intend to head out, and during lunch if doing more than 3 sites per day.  
+
+1. **Unispec DC with PCMIA card** and adaptor inserted. 
+1. **2 x foreoptic cables** in protective box. Cable A connecting to the **cosine receptor** (small black rectangular prism). Cable B has a **long metal tube** to adjust the FOV.  
+1. **Monopod** - 2m metal cross. If you’re going to the SHRUB sites bring the **wooden Extension**, Attachments (3 screws, 3 nuts), and 2 x 7/16” **wrenches**, and grey **right-angle level.** 
+1. **White reference** disc in bag with sandpaper. 
+1. **Reference disc holder** and **orange clamp.** 
+1. **Site maps on clipboard.**  
+1. **Notebook & pencil** 
+
+### **Field Procedure:**  
+
+1. **Turn on machine.** Button in bottom back left corner
+1. **Wait 10 min for machine to warm up.** Good things to do while waiting: 
+  * **Attach the upward and downward facing foreoptics** to monopod  
+  * **Clip white reference holder** onto monopod 
+  * **Weather / Conditions**– write in notebook. Clouds, haziness, sun angle, moisture on leaves all affect scans.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
