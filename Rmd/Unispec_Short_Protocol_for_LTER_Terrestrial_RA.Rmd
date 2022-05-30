@@ -152,3 +152,9 @@ Use the [LTER plot/NDVI maps](LTER_Unispec_site_map.html) to determine order and
 -   **Difficulty finding cursor:** Adjust brightness up and down (arrow buttons to the middle-right of display) so that white shows up better. When you press 1 for "Scan Preferences", the cursor always appears over the "OK" button.
 
 -   **Bad Spectra:** If anything looks weird, go back and consult A People's Guide to Unispec-DC Measurement and Data Prep for examples of spectra and other common problems.
+
+
+
+
+
+test test test 

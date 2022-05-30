@@ -192,8 +192,8 @@ pre code {
 <li><p><strong>Try to measure each site once a week.</strong> This is often not possible given weather conditions. Consult PI on site and timing priorities for each summer. Try to capture green-up (early-mid June), peak greenness (early-mid July), and senescence (mid-August).</p></li>
 <li><p><strong>Minimize shadows by measuring close to Solar Noon (13:00).</strong> Try not to start before 10:00 or go past 15:00. If it is slightly overcast with more diffuse light, shadows are less of a problem. Try to measure sites at similar times of day within throughout the summer. Example Unispec schedule typical of 2017-2018 summers when good weather:</p>
 <ol style="list-style-type: lower-alpha">
-<li><p>Day 1: up the hill to MAT, LMAT, WSG-inlet in the morning; drive to p-loop WSG-outlet, DHT afternoon</p></li>
-<li><p>Day 2: boat across the lake to NANT, MNAT in the morning; drive to SHB1, SHB2, HST in the afternoon</p></li>
+<li>Day 1: up the hill to MAT, LMAT, WSG-inlet in the morning; drive to p-loop WSG-outlet, DHT afternoon</li>
+<li>Day 2: boat across the lake to NANT, MNAT in the morning; drive to SHB1, SHB2, HST in the afternoon</li>
 </ol></li>
 <li><p><strong>What is “good enough” weather to spec?</strong> Since we’re using the Dual Channel Unispec, varying light levels are less important for measurements, as each scan takes into account upward and downward light. Highly variable cloud cover does makes it difficult as the raw spectra will change a lot and can easily max out (above 65,000 A/D). Be sure there is enough light to make good readings (max of CHANNEL A around 50,000 A/D). Balance getting any data with getting good data and always make note weather conditions and other factors!</p></li>
 <li><p><strong>Avoid taking measurements of wet vegetation.</strong> Water droplets on leaves can artificially lower the NDVI. You may need to wait for vegetation to dry.</p></li>
@@ -215,91 +215,113 @@ pre code {
 <div id="field-procedure" class="section level3">
 <h3><strong>Field Procedure:</strong></h3>
 <ol style="list-style-type: decimal">
-<li><p><strong>Turn on machine.</strong> Button in bottom back left corner</p></li>
-<li><p><strong>Wait 10 min for machine to warm up.</strong> Good things to do while waiting:</p>
+<li><strong>Turn on machine.</strong> Button in bottom back left corner</li>
+<li><strong>Wait 10 min for machine to warm up.</strong> Good things to do while waiting:
 <ol style="list-style-type: lower-alpha">
-<li><p><strong>Attach the upward and downward facing foreoptics</strong> to monopod</p></li>
-<li><p><strong>Clip white reference holder</strong> onto monopod</p></li>
-<li><p><strong>Weather / Conditions</strong>– write in notebook. Clouds, haziness, sun angle, moisture on leaves all affect scans.</p></li>
+<li><strong>Attach the upward and downward facing foreoptics</strong> to monopod</li>
+<li><strong>Clip white reference holder</strong> onto monopod</li>
+<li><strong>Weather / Conditions</strong>– write in notebook. Clouds, haziness, sun angle, moisture on leaves all affect scans.</li>
 </ol></li>
-<li><p><strong>Set scan preferences (press 1).</strong></p>
+<li><strong>Set scan preferences (press 1).</strong>
 <ol style="list-style-type: lower-alpha">
-<li><p><strong>Make sure:</strong></p>
+<li><strong>Make sure:</strong>
 <ul>
 <li>“Scan button does one scan” is selected</li>
 <li>Autointegration time is set to 20000sec (to be safe)</li>
 </ul></li>
-<li><p><strong>Create folder for day: YEAR-MONTH-DAY</strong> (e.g. 2018-06-10)</p></li>
-<li><p>Set file prefix: <strong>SITE_</strong> (e.g. MAT_ or DHT_ don’t forget the underscore!)</p></li>
-<li><p><strong>Set start at number: 0</strong></p></li>
-<li><p><strong>Set integration time</strong> according to weather:</p>
+<li><strong>Create folder for day: YEAR-MONTH-DAY</strong> (e.g. 2018-06-10)</li>
+<li>Set file prefix: <strong>SITE_</strong> (e.g. MAT_ or DHT_ don’t forget the underscore!)</li>
+<li><strong>Set start at number: 0</strong></li>
+<li><strong>Set integration time</strong> according to weather:
 <ul>
-<li><p>40-50 ms – sunny</p></li>
-<li><p>70-100 ms – mildly cloudy</p></li>
-<li><p>160-200 ms – thick clouds</p></li>
+<li>40-50 ms – sunny</li>
+<li>70-100 ms – mildly cloudy</li>
+<li>160-200 ms – thick clouds</li>
 </ul></li>
-<li><p><strong>Change Scans to Average to 10</strong></p></li>
-<li><p><strong>Set Default Data Directory and File</strong> to Folder named by <strong>DATE</strong> created in (b). Save as <strong>“Default.spu”</strong> within folder</p></li>
+<li><strong>Change Scans to Average to 10</strong></li>
+<li><strong>Set Default Data Directory and File</strong> to Folder named by <strong>DATE</strong> created in (b). Save as <strong>“Default.spu”</strong> within folder</li>
 </ol></li>
-<li><p><strong>Perform throwaway scan (press 2).</strong> Initializes channels after instrument has been turned off. </p></li>
-</ol>
-<!-- -->
-<ol start="5" style="list-style-type: decimal">
-<li><p><strong>Perform a dark scan (press 3).</strong> Fold over case to block all light from detectors.  </p>
+<li><strong>Perform throwaway scan (press 2).</strong> Initializes channels after instrument has been turned off. </li>
+<li><strong>Perform a dark scan (press 3).</strong> Fold over case to block all light from detectors.
 <ol style="list-style-type: lower-alpha">
-<li><p>Values btw 100-300 A/D are optimal. Relatively uniform noise across all wavelengths. </p></li>
-<li><p>Dark scan measures instrument noise. Important to redo if you change integration time by <strong>more than 40ms</strong> or temperature changes.  </p></li>
+<li>Values btw 100-300 A/D are optimal. Relatively uniform noise across all wavelengths. </li>
+<li>Dark scan measures instrument noise. Important to redo if you change integration time by <strong>more than 40ms</strong> or temperature changes.</li>
 </ol></li>
-</ol>
-<!-- -->
-<ol start="6" style="list-style-type: decimal">
-<li><p><strong>Attach foreoptics to UniSpec.</strong> </p>
+<li><strong>Attach foreoptics to UniSpec.</strong> 
 <ol style="list-style-type: lower-alpha">
-<li><p>Make sure A is the upward facing and has the Cosine Receptor (small black rectangle) </p></li>
-<li><p>Make sure B is the downward facing and has the long metal tube to adjust FOV</p></li>
+<li>Make sure A is the upward facing and has the Cosine Receptor (small black rectangle) </li>
+<li>Make sure B is the downward facing and has the long metal tube to adjust FOV</li>
 </ol></li>
-</ol>
-<!-- -->
-<ol start="7" style="list-style-type: decimal">
-<li><p><strong>Perform reference scan (press 2)</strong></p>
+<li><strong>Perform reference scan (press 2)</strong>
 <ol style="list-style-type: lower-alpha">
-<li><p>Examine disc to make sure it is clean, sandpaper surface if necessary. DO NOT TOUCH the circular surfaces to avoid contamination with oils.</p></li>
-<li><p>Place in holder beneath down optic – make sure it is close but no shadow on disc and it is at the same angle to sun as the Cosine Receptor.</p></li>
-<li><p>Take 3 measurements at right angles facing direction similar to real measurements.</p>
+<li>Examine disc to make sure it is clean, sandpaper surface if necessary. DO NOT TOUCH the circular surfaces to avoid contamination with oils.</li>
+<li>Place in holder beneath down optic – make sure it is close but no shadow on disc and it is at the same angle to sun as the Cosine Receptor.</li>
+<li>Take 3 measurements at right angles facing direction similar to real measurements.
 <ol style="list-style-type: lower-roman">
-<li><p>Channel A max should be around 50,000 A/D.</p></li>
-<li><p>Channel A and Channel B should be fairly similar.</p></li>
+<li>Channel A max should be around 50,000 A/D.</li>
+<li>Channel A and Channel B should be fairly similar.</li>
 </ol></li>
 </ol></li>
-</ol>
-<!-- -->
-<ol start="8" style="list-style-type: decimal">
-<li><p><strong>Prep for real measurements:</strong> </p>
+<li><strong>Prep for real measurements:</strong> 
 <ol style="list-style-type: lower-alpha">
-<li><p>Change scans to Average back to 1. </p></li>
-<li><p>Write down the file name for Throwaway (00), Dark (01), and Reference (02-04) scans. </p></li>
+<li>Change scans to Average back to 1. </li>
+<li>Write down the file name for Throwaway (00), Dark (01), and Reference (02-04) scans. </li>
 </ol></li>
-</ol>
-<!-- -->
-<ol start="9" style="list-style-type: decimal">
-<li><p><strong>Make real measurements (press 2)</strong></p>
+<li><strong>Make real measurements (press 2)</strong>
 <ol style="list-style-type: lower-alpha">
-<li><p>Align the monopod on the edge of the plot. Level with the bubble. Press 2.</p></li>
-<li><p>Check to make sure CHANNEL A and CHANNEL B <strong>do not max out at 65000 A/D.</strong> If so, redo measurements with a shorter integration time.  </p></li>
-<li><p>Check that upward facing CHANNEL A has higher raw signal values than downward facing CHANNEL B (the only exception is the REF scan). Ideally, the raw signal spectra should peak at <strong>around 50,000 A/D</strong> for CHANNEL A.</p></li>
-<li><p>Take 5 measurements along 5m transects as marked on plot maps and with silver tags on boardwalk. </p></li>
-<li><p>Note which blocks and plots go to each set of 5 files in notebook.</p></li>
+<li>Align the monopod on the edge of the plot. Level with the bubble. Press 2.</li>
+<li>Check to make sure CHANNEL A and CHANNEL B <strong>do not max out at 65000 A/D.</strong> If so, redo measurements with a shorter integration time.  </li>
+<li>Check that upward facing CHANNEL A has higher raw signal values than downward facing CHANNEL B (the only exception is the REF scan). Ideally, the raw signal spectra should peak at <strong>around 50,000 A/D</strong> for CHANNEL A.</li>
+<li>Take 5 measurements along 5m transects as marked on plot maps and with silver tags on boardwalk. </li>
+<li>Note which blocks and plots go to each set of 5 files in notebook.</li>
 </ol></li>
-</ol>
-<!-- -->
-<ol start="10" style="list-style-type: decimal">
 <li><strong>Transfer data files and update key THE SAME DAY YOU TAKE MEASUREMENTS.</strong> See data procedure below</li>
 </ol>
-<p><strong>TIPS/Troubleshooting:</strong></p>
+<div id="tipstroubleshooting" class="section level4">
+<h4><strong>TIPS/Troubleshooting:</strong></h4>
 <ul>
-<li><p><strong>Difficulty finding cursor:</strong> Adjust brightness up and down (arrow buttons to the middle-right of display) so that white shows up better. When you press 1 for “Scan Preferences”, the cursor always appears over the “OK” button.</p></li>
-<li><p><strong>Bad Spectra:</strong> If anything looks weird, go back and consult A People’s Guide to Unispec-DC Measurement and Data Prep for examples of spectra and other common problems.</p></li>
+<li><strong>Difficulty finding cursor:</strong> Adjust brightness up and down (arrow buttons to the middle-right of display) so that white shows up better. When you press 1 for “Scan Preferences”, the cursor always appears over the “OK” button.</li>
+<li><strong>Bad Spectra:</strong> If anything looks weird, go back and consult A People’s Guide to Unispec-DC Measurement and Data Prep for examples of spectra and other common problems.</li>
 </ul>
+</div>
+</div>
+<div id="data-procedure" class="section level3">
+<h3><strong>Data Procedure:</strong></h3>
+<p><em>Transfer files from the PCIMA card to the Dropbox folder on the computer and run the RScript to quality check <strong>THE SAME DAY</strong> you take measurements. You may think you have perfect memory now, but you will forget! Record electronically which file numbers belong to which plots, reference, or dark scans in the File Key and delete any unnecessary files.</em></p>
+<ol style="list-style-type: decimal">
+<li><strong>Remove PCIMA card from Unispec DC &gt;&gt; insert into reader with USB connection to computer.</strong> Be careful to align the PCIMA card properly to avoid bending any of the metal prongs on the connector. If this occurs, you can straighten with pliers &amp; reinsert card to realign. </li>
+<li><strong>Transfer data folders to computer.</strong> Move folders named with [YEAR-MONTH-DAY} containing SITE_XXXXX.spu files to appropriate location in OneDrive/Dropbox.</li>
+<li><strong>Fill out Unispec Key,</strong> add notes &amp; file numbers to <strong>[YEAR_unispec_key.csv]</strong> excel sheet.</li>
+<li><strong>Open [“process_unispec_files.Rmd”] R Markdown notebook in RStudio.</strong> Work through the document to:
+<ol style="list-style-type: lower-alpha">
+<li><strong>Quality Check data by:</strong>
+<ol style="list-style-type: lower-roman">
+<li><strong>Choose white references</strong> and update <strong>unispec Key [YEAR_unispec_key.csv]</strong> (File Numbers for rows where Treatment = REF) </li>
+<li><strong>Exclude bad data</strong> with maxed out spectra or other issues.</li>
+</ol></li>
+<li><strong>Calculate vegetation indices [“process_unispec_files.Rmd”]</strong> markdown notebook.</li>
+</ol></li>
+<li><strong>Save data</strong> to <strong>[CONSULT JIM/LAURA ON FILEFORMAT / LOCATION]</strong></li>
+<li><strong>Add data to Shiny App</strong> to compare with other years by moving updated dataframe into [“shiny_unispec”] directory housing web application. Publish application to the web using RStudio, access at: [<a href="https://rubytessa.shinyapps.io/shiny_unispec/" class="uri">https://rubytessa.shinyapps.io/shiny_unispec/</a>]</li>
+</ol>
+<div id="tipstroubleshooting-1" class="section level4">
+<h4><strong>TIPS/Troubleshooting:</strong></h4>
+<ol style="list-style-type: decimal">
+<li><strong>Missing/mislabeled files.</strong> Human error is real. You hopefully kept track of file number / plot correspondence in the field; however, if you get back to lab and something doesn’t line up, there are several tricks you can use.
+<ol style="list-style-type: lower-alpha">
+<li><strong>Look at measurement times.</strong> Using the “unispec_quality_check.R” file, look at the times you took each measurement. One line of code will give you a dataframe with the difference in time between each measurement. Usually, you can tell which 5 measurement you took at a single plot (small difference in times) and when you moved between plots (longer times) or blocks (even longer) depending on how far you have to walk.  </li>
+<li><strong>Check spectra</strong>. You may have simply be off by one due to mislabeled reference or dark scans. Check the spectra of any subset of file numbers to make sure</li>
+</ol></li>
+</ol>
+</div>
+<div id="appendix-a.-unispec-location-anomalies" class="section level4">
+<h4><strong>APPENDIX A. Unispec Location Anomalies</strong></h4>
+<p>List of irregular unispec locations:</p>
+<ol style="list-style-type: decimal">
+<li>WSG-outlet locations are along the entire side of the plot not confined to 5m, to avoid water.</li>
+<li>COMPILE DESCRIPTIVE LIST HERE. BE SPECIFIC.</li>
+</ol>
+</div>
 </div>
 
 
