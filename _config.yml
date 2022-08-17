@@ -1,1 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "Images/toolik_terrestrial_LTER_header.png"
+search_enabled: true
+footer_content: "Website made by Nicole Williamson; *CONTACT*: williamson28nicole@gmail.com with questions"
