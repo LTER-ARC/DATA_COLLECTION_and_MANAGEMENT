@@ -1,5 +1,6 @@
 ---
 output: html_document
+layout: _config.yml
 ---
 
 <img src="Images/toolik_terrestrial_LTER_header.png" class="center"/>\
