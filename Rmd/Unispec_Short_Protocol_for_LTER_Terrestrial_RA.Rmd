@@ -1,11 +1,13 @@
 ---
 title: "Unispec Short Protocol for LTER Terrestrial RA"
-author: "Nicole Wiliamson"
-date: "5/26/2022"
 output: html_document
 ---
 
 **Originally created by Ruby An 2018**
+
+
+[BACK TO HOME PAGE](../index.html)
+
 
 *Complete these steps at each site and each time you are setting up the UniSpec DC.* **Before operating read through the handout A People's Guide to Unispec-DC Measurement and Data Prep by Jeremy K. Caves.** *Consult the UniSpec-DC manual (in binder) for more information on the instrument.*
 
@@ -121,3 +123,6 @@ List of irregular unispec locations:
 
 1.  WSG-outlet locations are along the entire side of the plot not confined to 5m, to avoid water.
 2.  COMPILE DESCRIPTIVE LIST HERE. BE SPECIFIC.
+
+
+[BACK TO HOME PAGE](index.html)

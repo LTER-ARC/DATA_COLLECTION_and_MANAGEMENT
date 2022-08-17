@@ -1,30 +1,25 @@
 ---
 output: html_document
 ---
-<img src="Images/toolik_terrestrial_LTER_header.png" class="center">  
+
+<img src="Images/toolik_terrestrial_LTER_header.png" class="center"/>\
 Nicole Williamson - 2022
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# LTER Plot Set-Up
+## LTER Plot Set-Up
 
-* [Setting up/taking down greenhouses & shade houses](Rmd/LTER_plot_setup.html) 
-* [Fertilizing the plots]()
+-   [Setting up/taking down greenhouses & shade houses](Rmd/LTER_plot_setup.html)
 
-# Plant Cover   
+## Plant abundance
 
-* [In the feild - data collection](Rmd/Data_collection.html)  
-* [Entering data](Rmd/data_entry.html)  
-* [QAQC & Storing Data]()
-* [Clean and calculate relative cover](Rmd/clean_and_calculate_cover.html)
+-   [In the field - data collection](Rmd/Data_collection.html)
+-   [Entering data](Rmd/data_entry.html)
+-   [QAQC & Storing Data]()
+-   [Clean and calculate relative cover](Rmd/clean_and_calculate_cover.html)
 
+## NDVI / Unispec
 
-# NDVI / Unispec
-
-* [In the feild - data collection](Rmd/Unispec_Short_Protocol_for_LTER_Terrestrial_RA.html) 
-* []()
-* []()  
-
-
+-   [Unispec short protocol](Rmd/Unispec_Short_Protocol_for_LTER_Terrestrial_RA.html)
