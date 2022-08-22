@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 xfun::embed_file('../Data/LTER_cover_datasheet_template.csv', text = 'Download DATASHEET TEMPLATE here')
 ```
 
-# Feild measurments  
+# Field measurments  
 
 * There is an 8m long transect in each plot where we measure plant cover each year
   * 1 m^2 quadrats are placed side by side down this transect
