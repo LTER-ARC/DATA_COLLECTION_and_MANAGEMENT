@@ -42,7 +42,7 @@ xfun::embed_file('../Data/Site_Treatment_codes.csv', text = 'Download SITE/TREAT
 xfun::embed_file('../Data/SpeciesList_naming_conventions.csv', text = 'Download SPECIES LIST here')
 ```
 
-# Naming convention erros 
+# Naming convention errors 
 **Be mindful of common naming convention errors!**
 *For all columns, but especially treatment and species names*
 
