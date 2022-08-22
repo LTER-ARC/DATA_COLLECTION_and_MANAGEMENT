@@ -1,14 +1,33 @@
 ---
 output: html_document
-layout: _config.yml
 ---
 
 <img src="Images/toolik_terrestrial_LTER_header.png" class="center"/>\
-Nicole Williamson - 2022
+**Nicole Williamson - 2022**
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+# Welcome!
+
+Hello friend and welcome to the Arctic Long Term Ecological Research (ARC LTER) team! The [LTER Network](https://lternet.edu/) was established in the 1980's by the [National Science Foundation (NSF)](https://www.nsf.gov/) to support long-term ecological research all over the United States. Our research site is located in the foothills of the Brooks Range, North Slope of Alaska. We are based out of the University of Alaska's [Toolik Field Station](https://www.uaf.edu/toolik/). Learn more about the ARC LTER's goals and access our long term datasets [HERE](https://arc-lter.ecosystems.mbl.edu/).
+
+This website was created with the goal of having everything you need to successfully collect and maintain our long-term data sets all in one place.
+
+## Helpful links to get you started
+
+[Life at Toolik](https://www.uaf.edu/toolik/handbook/camp-life.php) - Nearly everything you need to know about life at Toolik can be found here
+
+[Map of Toolik Field Station](https://www.uaf.edu/toolik/handbook/facilities/camp-map.php) - Includes and interactive aerial view of the station
+
+[Environmnetal Data Center (EDC)](https://www.uaf.edu/toolik/edc/index.php) - The EDC maintains several different long term data sets including both biotic (bird counts, plant phenology, and NDVI), and abiotic (weather, meteorological, snow depth, ice thickness, atmospheric, time lapse imagery, and more). They also have [plant](https://www.uaf.edu/toolik/edc/guides/plant-guide.php) and several animal guides.
+
+**Plant ID**
+
+-   [Toolik's EDC plant guide](https://www.uaf.edu/toolik/edc/guides/plant-guide.php)
+-   [Plant ID Quizzlet](https://quizlet.com/709176632/arctic-plants-4-team-vole-flash-cards/?x=1jqt)
+-   [Tricky plant ID help](https://docs.google.com/presentation/d/1aM0x87MKhG4rN_NwofKiC2dyFIFwdZsshV3ruQbzimc/edit#slide=id.g13051740239_0_141)
 
 ## LTER Plot Set-Up
 
