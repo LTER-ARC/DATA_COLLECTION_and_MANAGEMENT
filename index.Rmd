@@ -1,9 +1,23 @@
 ---
-output: html_document
+output:
+  html_document:
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 <img src="Images/toolik_terrestrial_LTER_header.png" class="center"/>\
 **Nicole Williamson - 2022**
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -29,6 +43,9 @@ This website was created with the goal of having everything you need to successf
 -   [Plant ID Quizzlet](https://quizlet.com/709176632/arctic-plants-4-team-vole-flash-cards/?x=1jqt)
 -   [Tricky plant ID help](https://docs.google.com/presentation/d/1aM0x87MKhG4rN_NwofKiC2dyFIFwdZsshV3ruQbzimc/edit#slide=id.g13051740239_0_141)
 
+------------------------------------------------------------------------
+# Protocols 
+
 ## LTER Plot Set-Up
 
 -   [Setting up/taking down greenhouses & shade houses](Rmd/LTER_plot_setup.html)
@@ -43,3 +60,9 @@ This website was created with the goal of having everything you need to successf
 ## NDVI / Unispec
 
 -   [Unispec short protocol](Rmd/Unispec_Short_Protocol_for_LTER_Terrestrial_RA.html)
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+<img src="Images/Footer_1.png" class="center"/>\
