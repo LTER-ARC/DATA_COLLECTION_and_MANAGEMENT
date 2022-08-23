@@ -151,11 +151,14 @@ Checking the battery level
 
 1.  **Turn on device**, give it about 10 minutes to warm up
 
-2.  Access the the **set up menu** by pressing "1"
+2.  Access the the **set up menu** by pressing **"1"**
 
-    -   In the *"File Prefix"* box, enter the site name abbreviation
-        (Ex: `mat06_` )
-    -   Change *"Start number"* to `0`
+    -   In the ***"File Prefix"*** box, enter the **site name
+        abbreviation** (Ex: mat06\_ )
+    -   Change ***"Start number"***to **0**
+    -   Make sure **"Scan button does one scan"** is selected, but check
+        that the **"autointegration time"** is set to **20000sec** (to
+        be safe)
 
     <img src="../Images/Field_setup_1.png" class="center"/>
 
@@ -170,7 +173,7 @@ Checking the battery level
 
         -   Files will then automatically save into this folder with the
             site prefix and then the file file number, counting up (Ex:
-            `mat06_00001` )
+            mat06_00001)
 
     <img src="../Images/Field_setup_2.png" class="center"/>
 
@@ -190,8 +193,10 @@ Checking the battery level
     -   pencil
     -   map(s) of site(s)
     -   copy of the unispec instructions
-    
-  <img src="../Images/monopod_location.png" class="center"/>\
+    -   **UNISPEC KEY** (to record date, weather, \#'s for dark scan,
+        reference scan, file numbers for each treatment)
+
+<img src="../Images/monopod_location.png" class="center"/>\
 
 7.  Locate the Monopod
 
@@ -217,97 +222,150 @@ Checking the battery level
 
 <img src="../Images/MONOPOD_setup.png" class="center"/>\
 
-1.  **Wait 10 min for machine to warm up.** Good things to do while
-    waiting:
+*When you arrive at your site, the first thing you should do it take out
+the Unispec and turn it on.*
 
-    a.  **Attach the upward and downward facing foreoptics** to monopod
+1.  Wait **10 min** for machine to warm up. **While waiting:**
+
+    a.  **Attach the upward and downward facing foreoptics** **to the
+        monopod** (DO NOT ATTACH TO UNISPEC YET)
+
+        **TIP:** Hold both cables in one hand while supporting the
+        monopod in its upright position. Carefully attach upward facing
+        sensor first by sliding the wire into the slot on the tip of the
+        monopod so that the rectangular sensor sits on top. Then attach
+        the downward facing sensor to the arm of the monopod by sliding
+        the needle-like end into the hole in the plastic white rectangle
+        so that that the needle-like end is facing down towards the
+        ground. Finally, while being careful not to twist or bend the
+        cables, or let the ends touch the ground, feed the ends of both
+        cables through the PVC tube and attach.
+
     b.  **Clip white reference holder** onto monopod
+
     c.  **Weather / Conditions**-- write in notebook. Clouds, haziness,
         sun angle, moisture on leaves all affect scans.
 
-2.  **Set scan preferences (press 1).**
+<img src="../Images/cable_care.png" class="center"/>\
 
-    a.  **Make sure:**
+2.  Dawn the unispec by putting the strap over your head and around your
+    neck. Adjust straps so that the device rests in a comfortable
+    position**. If you didn't set scan preferences before heading into
+    the field, do so now per the instructions in the previous section.**
 
-        -   "Scan button does one scan" is selected
-        -   Autointegration time is set to 20000sec (to be safe)
+    a.  Press "1"
 
-    b.  **Create folder for day: YEAR-MONTH-DAY** (e.g. 2018-06-10)
+    b.  Change **"Scans to Average"** to **10**
 
-    c.  Set file prefix: **SITE\_** (e.g. MAT\_ or DHT\_ don't forget
-        the underscore!)
-
-    d.  **Set start at number: 0**
-
-    e.  **Set integration time** according to weather:
+    c.  **Set integration time** according to weather:
 
         -   40-50 ms -- sunny
+
         -   70-100 ms -- mildly cloudy
+
         -   160-200 ms -- thick clouds
 
-    f.  **Change Scans to Average to 10**
+            *When set, click "OK" then it will say "rebooting detector
+            channels" Once that message is gone, you should be ready to
+            take a scan*
 
-    g.  **Set Default Data Directory and File** to Folder named by
-        **DATE** created in (b). Save as **"Default.spu"** within folder
+3.  **Perform throwaway scan:** Initializes channels after instrument
+    has been turned off. **Press "2" when ready to take the scan.**
 
-3.  **Perform throwaway scan (press 2).** Initializes channels after
-    instrument has been turned off. 
+    a.  **RECORD THROWAWAY SCAN FILE NUMBER**
 
-4.  **Perform a dark scan (press 3).** Fold over case to block all light
-    from detectors.
+4.  **Perform a dark scan:** Fold the cover of the case over and press
+    it into the ports for the two cables on the back of the device so
+    that no light can get in. **Press "3" when ready to take scan.**
+
+5.  **Check the dark scan readings:**
 
     a.  Values btw 100-300 A/D are optimal. Relatively uniform noise
         across all wavelengths. 
     b.  Dark scan measures instrument noise. Important to redo if you
         change integration time by **more than 40ms** or temperature
         changes.
+    c.  **RECORD DARK SCAN NUMBER.** You can see the scan number
+        displayed along the bottom of the screen
 
-5.  **Attach foreoptics to UniSpec.** 
+<img src="../Images/Dark_scan_ex.png" class="center"/>\
 
-    a.  Make sure A is the upward facing and has the Cosine Receptor
-        (small black rectangle) 
-    b.  Make sure B is the downward facing and has the long metal tube
-        to adjust FOV
+6.  **Attach foreoptics cables to UniSpec.** Cables and ports are color
+    coordinated
 
-6.  **Perform reference scan (press 2)**
+    a.  **orange** = Channel A/upward facing sensor
+    b.  **green** = Channel B/downward facing sensor
 
-    a.  Examine disc to make sure it is clean, sandpaper surface if
-        necessary. DO NOT TOUCH the circular surfaces to avoid
-        contamination with oils.
+7.  **Perform the WHITE reference scan**
 
-    b.  Place in holder beneath down optic -- make sure it is close but
-        no shadow on disc and it is at the same angle to sun as the
-        Cosine Receptor.
+    a.  White reference disc should theoretically reflect 100% of the
+        light coming in. This only happens if its clean, and free from
+        scratches. **DO NOT touch the surface of the disc**, only touch
+        the sides. Oil from your hands can distort light refection.
+        **Examine disc before use** to make sure it is clean, sandpaper
+        surface if necessary.
 
-    c.  Take 3 measurements at right angles facing direction similar to
-        real measurements.
+    b.  **Place the disk in the white reference holder** (attach if need
+        be) **beneath the downward facing sensor**-- make sure it is
+        close but no shadow on disc and it is at the same angle to sun
+        as the upward facing sensor. To check if disk is under the
+        sensor by removing the sensor from its holder and looking down
+        through the hole to make sure you see the white disk.
 
-        i.  Channel A max should be around 50,000 A/D.
-        ii. Channel A and Channel B should be fairly similar.
+    c.  Go to the plot you are going to take measurements in and line
+        the unispec up in the same location and direction as you will be
+        taking your real measurements. Do your best to also make sure
+        the monopod is level (use the level on the arm of the monopod).
+        **Take a measurement by pressing "2"**
 
-7.  **Prep for real measurements:** 
+        i.  **CHECK THE REFLECTANCE VALUES -** for the white reference
+            you want channel A and B to look similar and have similar
+            magnitudes
+        ii. Channel A max should be around 50,000 A/D. Channel B should
+            be similar but tends to be a bit lower
 
-    a.  Change scans to Average back to 1. 
-    b.  Write down the file name for Throwaway (00), Dark (01), and
-        Reference (02-04) scans. 
+    d.  **Take 4 more scans in the same spot** (total of 5) to account
+        for small changes in light and cloud cover.
 
-8.  **Make real measurements (press 2)**
+    e.  **RECORD WHITE REFERENCE FILE NUMBERS**
+
+    f.  Remove the white reference disk and holder and store in backpack
+
+<img src="../Images/monopod_level.png" class="center"/>\
+
+8.  **Prep for real measurements:** 
+
+    a.  Press "1"
+    b.  Change **"Scans to Average"** to **1**
+
+9.  **Make real measurements**
 
     a.  Align the monopod on the edge of the plot. Level with the
-        bubble. Press 2.
+        bubble. **Press 2.**
+
     b.  Check to make sure CHANNEL A and CHANNEL B **do not max out at
         65000 A/D.** If so, redo measurements with a shorter integration
         time.  
+
     c.  Check that upward facing CHANNEL A has higher raw signal values
         than downward facing CHANNEL B (the only exception is the REF
         scan). Ideally, the raw signal spectra should peak at **around
         50,000 A/D** for CHANNEL A.
+
     d.  Take 5 measurements along 5m transects as marked on plot maps
         and with silver tags on boardwalk. 
-    e.  Note which blocks and plots go to each set of 5 files in
-        notebook.
 
-9.  **Transfer data files and update key THE SAME DAY YOU TAKE
+    e.  RECORD WHICH BLOCK AND PLOT CORRESPONDS TO EACH SET OF 5 FILES
+        **before** moving onto the next treatment
+
+        **NOTE:** *If cloud/lighting conditions change a lot while you
+        are taking measurements, take another set of white reference
+        scans at the end*
+
+10. When you are done, turn the device off. Disconnect the cables, and
+    repack everything for transport
+
+11. **Transfer data files and update key THE SAME DAY YOU TAKE
     MEASUREMENTS.** See data procedure below
 
 ------------------------------------------------------------------------
@@ -316,13 +374,23 @@ Checking the battery level
 
 ### **TIPS/Troubleshooting:**
 
--   **Difficulty finding cursor:** Adjust brightness up and down (arrow
+-   **Made a mistake?** If you would like to redo some of your scans,
+    you can press 1, and then set the "Start at number" back to whatever
+    number you want to restart at. **THIS WILL ERASE all measurements
+    you took after that scan number** so make sure you really want to do
+    that
+-   **Difficulty finding cursor -** Adjust brightness up and down (arrow
     buttons to the middle-right of display) so that white shows up
     better. When you press 1 for "Scan Preferences", the cursor always
     appears over the "OK" button.
--   **Bad Spectra:** If anything looks weird, go back and consult A
+-   **Bad Spectra -** If anything looks weird, go back and consult A
     People's Guide to Unispec-DC Measurement and Data Prep for examples
     of spectra and other common problems.
+-   **Hazards!** When at shrub sites or near greenhouses or other
+    structures, be mindful of where the wires are so they don't get
+    snagged on anything
+-   **Music/podcasts** - using the unispec can get monotonous, feel free
+    to bring music or podcasts to listen to
 
 ------------------------------------------------------------------------
 
