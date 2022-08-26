@@ -268,6 +268,11 @@ the Unispec and turn it on.*
             *When set, click "OK" then it will say "rebooting detector
             channels" Once that message is gone, you should be ready to
             take a scan*
+            
+
+  Integration time example:  
+  
+  <iframe width="560" height="315" src="https://youtu.be/emUyVuGBNBg" frameborder="0" allowfullscreen></iframe>
 
 3.  **Perform throwaway scan:** Initializes channels after instrument
     has been turned off. **Press "2" when ready to take the scan.**
@@ -396,74 +401,3 @@ the Unispec and turn it on.*
 
 ------------------------------------------------------------------------
 
-# **Data Procedure**
-
-*Transfer files from the PCIMA card to the Dropbox folder on the
-computer and run the RScript to quality check **THE SAME DAY** you take
-measurements. You may think you have perfect memory now, but you will
-forget! Record electronically which file numbers belong to which plots,
-reference, or dark scans in the File Key and delete any unnecessary
-files.*
-
-1.  **Remove PCIMA card from Unispec DC \>\> insert into reader with USB
-    connection to computer.** Be careful to align the PCIMA card
-    properly to avoid bending any of the metal prongs on the connector.
-    If this occurs, you can straighten with pliers & reinsert card to
-    realign. 
-
-2.  **Transfer data folders to computer.** Move folders named with
-    [YEAR-MONTH-DAY} containing SITE_XXXXX.spu files to appropriate
-    location in OneDrive/Dropbox.
-
-3.  **Fill out Unispec Key,** add notes & file numbers to
-    **[YEAR_unispec_key.csv]** excel sheet.
-
-4.  **Open ["process_unispec_files.Rmd"] R Markdown notebook in
-    RStudio.** Work through the document to:
-
-    a.  **Quality Check data by:**
-
-        i.  **Choose white references** and update **unispec Key
-            [YEAR_unispec_key.csv]** (File Numbers for rows where
-            Treatment = REF) 
-        ii. **Exclude bad data** with maxed out spectra or other issues.
-
-    b.  **Calculate vegetation indices ["process_unispec_files.Rmd"]**
-        markdown notebook.
-
-5.  **Save data** to **[CONSULT JIM/LAURA ON FILEFORMAT / LOCATION]**
-
-6.  **Add data to Shiny App** to compare with other years by moving
-    updated dataframe into ["shiny_unispec"] directory housing web
-    application. Publish application to the web using RStudio, access
-    at: [<https://rubytessa.shinyapps.io/shiny_unispec/>]
-
-### **TIPS/Troubleshooting:**
-
-1.  **Missing/mislabeled files.** Human error is real. You hopefully
-    kept track of file number / plot correspondence in the field;
-    however, if you get back to lab and something doesn't line up, there
-    are several tricks you can use.
-
-    a.  **Look at measurement times.** Using the
-        "unispec_quality_check.R" file, look at the times you took each
-        measurement. One line of code will give you a dataframe with the
-        difference in time between each measurement. Usually, you can
-        tell which 5 measurement you took at a single plot (small
-        difference in times) and when you moved between plots (longer
-        times) or blocks (even longer) depending on how far you have to
-        walk.  
-    b.  **Check spectra**. You may have simply be off by one due to
-        mislabeled reference or dark scans. Check the spectra of any
-        subset of file numbers to make sure
-
-# **APPENDIX A. Unispec Location Anomalies**
-
-List of irregular unispec locations:
-
-1.  WSG-outlet locations are along the entire side of the plot not
-    confined to 5m, to avoid water.
-2.  COMPILE DESCRIPTIVE LIST HERE. BE SPECIFIC.
-
-[BACK to home
-page](https://lter-arc.github.io/DATA_COLLECTION_and_MANAGEMENT/)
