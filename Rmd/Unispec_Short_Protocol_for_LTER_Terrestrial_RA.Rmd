@@ -270,9 +270,7 @@ the Unispec and turn it on.*
             take a scan*
             
 
-  Integration time example:  
-  
-  <iframe width="560" height="315" src="https://youtu.be/emUyVuGBNBg" frameborder="0" allowfullscreen></iframe>
+ **Click [HERE](https://drive.google.com/uc?export=download&id=10nLcimt4lkBuAqe5e404z_V3cYgiPFEo) for a video further explaining integration time.**
 
 3.  **Perform throwaway scan:** Initializes channels after instrument
     has been turned off. **Press "2" when ready to take the scan.**
