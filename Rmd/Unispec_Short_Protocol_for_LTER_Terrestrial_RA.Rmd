@@ -36,10 +36,10 @@ the tundra & do your best to make quality measurements.
 Use the [LTER plot/NDVI maps](LTER_Unispec_site_map.html) to determine
 order and location of measurements. There are 10 sites, 1-4 blocks per
 site, many plots for multiple treatments per block. Typically, make 5
-measurements per plot along 5m long Unispec transect as marked on maps.
-Scans are made 0.5m into plot (given monopod arm length). This is the
-default order in which the "unispec_key.csv" file is organized, telling
-you which measurement belongs to which plot.
+measurements per plot along a 5m long Unispec transect as marked on
+maps. Scans are made 0.5m into plot (given monopod arm length). This is
+the default order in which the "unispec_key.csv" file is organized,
+telling you which measurement belongs to which plot.
 
 1.  **Move between plots** at a site following dashed line with arrow in
     LTER Site Maps.
@@ -69,10 +69,10 @@ you which measurement belongs to which plot.
     summer. Example Unispec schedule typical of 2017-2018 summers when
     good weather:
 
-    a.  Day 1: up the hill to MAT, LMAT, WSG-inlet in the morning; drive
-        to p-loop WSG-outlet, DHT afternoon
-    b.  Day 2: boat across the lake to NANT, MNAT in the morning; drive
-        to SHB1, SHB2, HST in the afternoon
+    a.  Day 1: up the hill to MAT89, MAT06, WSG89-inlet in the morning;
+        drive to p-loop WSG89-outlet, DHT89 in the afternoon
+    b.  Day 2: boat across the lake to MNN97, MNT97 in the morning;
+        drive to SHB89-B1, SHB89-B2, MAT81 in the afternoon
 
 3.  **What is "good enough" weather to spec?** Since we're using the
     Dual Channel Unispec, varying light levels are less important for
@@ -87,15 +87,13 @@ you which measurement belongs to which plot.
     leaves can artificially lower the NDVI. You may need to wait for
     vegetation to dry.
 
-### What to Bring?
+### Equipment List
 
-1.  **Unispec DC with PCMIA card** and adaptor inserted.
+1.  **Unispec DC with PCMIA card** and adapter inserted.
 2.  **2 x foreoptic cables** in protective box. Cable A connecting to
     the **cosine receptor** (small black rectangular prism). Cable B has
     a **long metal tube** to adjust the FOV.
-3.  **Monopod** - 2m metal cross. If you're going to the SHRUB sites
-    bring the **wooden Extension**, Attachments (3 screws, 3 nuts), and
-    2 x 7/16" **wrenches**, and grey **right-angle level.**
+3.  **Monopod** - 2m metal cross.
 4.  **White reference** disc in bag with sandpaper.
 5.  **Reference disc holder** and **orange clamp.**
 6.  **Site maps on clipboard.**
@@ -103,12 +101,11 @@ you which measurement belongs to which plot.
 
 ------------------------------------------------------------------------
 
-## **Operating the Unispec**
+# **Operating the Unispec**
 
 <img src="../Images/BACK_unispec.png" class="center"/> 
 
-**Charge the Unispec the DAY BEFORE** you intend to head out, and during
-lunch if doing more than 3 sites per day.\*
+**To Charge**
 
 -   Plug cord into back of device
 
@@ -147,9 +144,17 @@ Checking the battery level
 
 # **Field Procedure**
 
-## **Preparing for the field**
+## **Preparing for the field - in lab**
 
-1.  **Turn on device**, give it about 10 minutes to warm up
+**Charge the Unispec the DAY BEFORE** you intend to head out, and during
+lunch if doing more than 3 sites per day.
+
+### Setting up the Instrument
+
+*You can do the following steps in the field. However, it's easier to do
+them in the lab before you leave for the field.*
+
+1.  **Turn on device** (*give it about 10 minutes to warm up*)
 
 2.  Access the the **set up menu** by pressing **"1"**
 
@@ -158,7 +163,7 @@ Checking the battery level
     -   Change ***"Start number"***to **0**
     -   Make sure **"Scan button does one scan"** is selected, but check
         that the **"autointegration time"** is set to **20000sec** (to
-        be safe)
+        prevent automatic scans)
 
     <img src="../Images/Field_setup_1.png" class="center"/>
 
@@ -173,44 +178,56 @@ Checking the battery level
 
         -   Files will then automatically save into this folder with the
             site prefix and then the file file number, counting up (Ex:
-            mat06_00001)
+            mat06_00001.spu)
 
     <img src="../Images/Field_setup_2.png" class="center"/>
 
 4.  **Turn off** the device
 
-5.  Pack the unispec in the bottom of a field back pack
+5.  Pack the unispec in the bottom of a field backpack
 
     -   You can find backpacks on the rack in the entryway to the lab
-        with the drying ovens. Typically, we use the red backpack
+        with the drying ovens in Lab 2.
     -   **If you are going across the lake make sure you put the unispec
         and other equipment into a dry bag!**
 
-6.  Pack the silver clipboard containing...
+### What to Bring?
 
-    -   two cables (upward and downward facing sensors)
-    -   white reference
-    -   pencil
-    -   map(s) of site(s)
-    -   copy of the unispec instructions
-    -   **UNISPEC KEY** (to record date, weather, \#'s for dark scan,
-        reference scan, file numbers for each treatment)
+-   **Unispec DC with PCMIA card** and adapter inserted
 
-<img src="../Images/monopod_location.png" class="center"/>\
+-   **Monopod** - 2 meter metal cross
 
-7.  Locate the Monopod
+-   **Reference disc holder** & orange clamp
+
+-   **White reference** disc in bag with sandpaper
+
+-   **Silver clipboard with;**
+
+    -   **2 x foreoptic cables** in protective box. Cable A connecting
+        to the **cosine receptor** (small black rectangular prism).
+        Cable B has a **long metal tube** to adjust the FOV.
+    -   **Site maps on clipboard**
+    -   **Copy of the unispec instructions**
+    -   **UNISPEC KEY (to record date, weather, #\'s for dark scan,
+        reference scan, file numbers for each treatment)**
+
+-   **Notebook & pencil**
+
+    <img src="../Images/monopod_location.png" class="center"/>\
+
+-   Locate the Monopod
 
     -   typically located by the rack next to the flammable cabinet
     -   make sure the white reference holder/clip is attached to the
         monopod. You can either leave this on while you carry it to the
         the field, or you can take it off and store it in the backpack
 
-8.  Don't forget your own supplies!
+-   Don't forget your own supplies!
 
     -   Bear spray
     -   Water
     -   Sunscreen
-    -   Bug spray/bug jacket ( **DO NOT USE DEET** near the equipment,
+    -   Bug spray/bug jacket (**DO NOT USE DEET** near the equipment,
         and be mindful of it being on your hands/what you touch. DEET
         will damage glass and plastic and could ruin the sensors)
     -   Extra layers
@@ -222,11 +239,9 @@ Checking the battery level
 
 <img src="../Images/MONOPOD_setup.png" class="center"/>\
 
-*When you arrive at your site, the first thing you should do it take out
-the Unispec and turn it on.*
-
-1.  Wait **10 min** for machine to warm up. **While waiting:**
-
+1.  When you arrive at your site, the first thing you should do it
+    **take out the Unispec and turn it on.**
+2.  Wait **10 min** for machine to warm up. **While waiting:**
     a.  **Attach the upward and downward facing foreoptics** **to the
         monopod** (DO NOT ATTACH TO UNISPEC YET)
 
@@ -268,12 +283,14 @@ the Unispec and turn it on.*
             *When set, click "OK" then it will say "rebooting detector
             channels" Once that message is gone, you should be ready to
             take a scan*
-            
 
- **Click [HERE](https://drive.google.com/uc?export=download&id=10nLcimt4lkBuAqe5e404z_V3cYgiPFEo) for a video further explaining integration time.**
+    **Click
+    [HERE](https://drive.google.com/uc?export=download&id=10nLcimt4lkBuAqe5e404z_V3cYgiPFEo)
+    for a video further explaining integration time.**
 
-3.  **Perform throwaway scan:** Initializes channels after instrument
-    has been turned off. **Press "2" when ready to take the scan.**
+3.  **Perform throwaway scan:** Initializes channels after the
+    instrument has been turned off. **Press "2" when ready to take the
+    scan.**
 
     a.  **RECORD THROWAWAY SCAN FILE NUMBER**
 
@@ -369,7 +386,7 @@ the Unispec and turn it on.*
     repack everything for transport
 
 11. **Transfer data files and update key THE SAME DAY YOU TAKE
-    MEASUREMENTS.** See data procedure below
+    MEASUREMENTS.** See [data procedure](unispec_data_protocol.html)
 
 ------------------------------------------------------------------------
 
@@ -398,4 +415,3 @@ the Unispec and turn it on.*
 ------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
-
