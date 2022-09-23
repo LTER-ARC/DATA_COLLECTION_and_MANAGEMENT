@@ -21,6 +21,8 @@ toolik_locations <- read.csv("../Data/Toolik_LTER_site_location.csv")
 ```
 
 ![](images/Cover_header.png)
+  
+Last updated: `r Sys.Date()`  
 
 # Introduction
 

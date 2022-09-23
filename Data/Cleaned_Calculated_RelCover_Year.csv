@@ -1,0 +1,481 @@
+"","year","region","site","block","treatment","quad_num","species","relcov"
+"1",2019,"Toolik","89MAT",1,"CT","Q1","And pol",0
+"2",2019,"Toolik","89MAT",1,"CT","Q1","bare",0
+"3",2019,"Toolik","89MAT",1,"CT","Q1","Bet nan",0.0425531914893617
+"4",2019,"Toolik","89MAT",1,"CT","Q1","Car big",0
+"5",2019,"Toolik","89MAT",1,"CT","Q1","Cas tet",0.117021276595745
+"6",2019,"Toolik","89MAT",1,"CT","Q1","Emp nig",0.0212765957446809
+"7",2019,"Toolik","89MAT",1,"CT","Q1","Eri vag",0.106382978723404
+"8",2019,"Toolik","89MAT",1,"CT","Q1","fr boil",0
+"9",2019,"Toolik","89MAT",1,"CT","Q1","Led pal",0.0957446808510638
+"10",2019,"Toolik","89MAT",1,"CT","Q1","lichen",0.0319148936170213
+"11",2019,"Toolik","89MAT",1,"CT","Q1","litter",0.0531914893617021
+"12",2019,"Toolik","89MAT",1,"CT","Q1","moss",0.404255319148936
+"13",2019,"Toolik","89MAT",1,"CT","Q1","Ped lap",0
+"14",2019,"Toolik","89MAT",1,"CT","Q1","Pol bis",0
+"15",2019,"Toolik","89MAT",1,"CT","Q1","Rub cha",0.0638297872340425
+"16",2019,"Toolik","89MAT",1,"CT","Q1","Sal pul",0
+"17",2019,"Toolik","89MAT",1,"CT","Q1","Std Bet",0.00531914893617021
+"18",2019,"Toolik","89MAT",1,"CT","Q1","Vac uli",0
+"19",2019,"Toolik","89MAT",1,"CT","Q1","Vac vit",0.0531914893617021
+"20",2019,"Toolik","89MAT",1,"CT","Q1","Win kill",0.00531914893617021
+"21",2019,"Toolik","89MAT",1,"CT","Q2","And pol",0
+"22",2019,"Toolik","89MAT",1,"CT","Q2","bare",0.00952380952380952
+"23",2019,"Toolik","89MAT",1,"CT","Q2","Bet nan",0.0857142857142857
+"24",2019,"Toolik","89MAT",1,"CT","Q2","Car big",0
+"25",2019,"Toolik","89MAT",1,"CT","Q2","Cas tet",0.0476190476190476
+"26",2019,"Toolik","89MAT",1,"CT","Q2","Emp nig",0.019047619047619
+"27",2019,"Toolik","89MAT",1,"CT","Q2","Eri vag",0.19047619047619
+"28",2019,"Toolik","89MAT",1,"CT","Q2","fr boil",0
+"29",2019,"Toolik","89MAT",1,"CT","Q2","Led pal",0.0285714285714286
+"30",2019,"Toolik","89MAT",1,"CT","Q2","lichen",0.0761904761904762
+"31",2019,"Toolik","89MAT",1,"CT","Q2","litter",0.114285714285714
+"32",2019,"Toolik","89MAT",1,"CT","Q2","moss",0.257142857142857
+"33",2019,"Toolik","89MAT",1,"CT","Q2","Ped lap",0
+"34",2019,"Toolik","89MAT",1,"CT","Q2","Pol bis",0
+"35",2019,"Toolik","89MAT",1,"CT","Q2","Rub cha",0.019047619047619
+"36",2019,"Toolik","89MAT",1,"CT","Q2","Sal pul",0
+"37",2019,"Toolik","89MAT",1,"CT","Q2","Std Bet",0.019047619047619
+"38",2019,"Toolik","89MAT",1,"CT","Q2","Vac uli",0
+"39",2019,"Toolik","89MAT",1,"CT","Q2","Vac vit",0.133333333333333
+"40",2019,"Toolik","89MAT",1,"CT","Q2","Win kill",0
+"41",2019,"Toolik","89MAT",1,"CT","Q3","And pol",0
+"42",2019,"Toolik","89MAT",1,"CT","Q3","bare",0
+"43",2019,"Toolik","89MAT",1,"CT","Q3","Bet nan",0.142857142857143
+"44",2019,"Toolik","89MAT",1,"CT","Q3","Car big",0.0306122448979592
+"45",2019,"Toolik","89MAT",1,"CT","Q3","Cas tet",0.0612244897959184
+"46",2019,"Toolik","89MAT",1,"CT","Q3","Emp nig",0.0612244897959184
+"47",2019,"Toolik","89MAT",1,"CT","Q3","Eri vag",0.102040816326531
+"48",2019,"Toolik","89MAT",1,"CT","Q3","fr boil",0
+"49",2019,"Toolik","89MAT",1,"CT","Q3","Led pal",0.0816326530612245
+"50",2019,"Toolik","89MAT",1,"CT","Q3","lichen",0.0102040816326531
+"51",2019,"Toolik","89MAT",1,"CT","Q3","litter",0.0714285714285714
+"52",2019,"Toolik","89MAT",1,"CT","Q3","moss",0.163265306122449
+"53",2019,"Toolik","89MAT",1,"CT","Q3","Ped lap",0
+"54",2019,"Toolik","89MAT",1,"CT","Q3","Pol bis",0.00510204081632653
+"55",2019,"Toolik","89MAT",1,"CT","Q3","Rub cha",0.0612244897959184
+"56",2019,"Toolik","89MAT",1,"CT","Q3","Sal pul",0.0510204081632653
+"57",2019,"Toolik","89MAT",1,"CT","Q3","Std Bet",0.00510204081632653
+"58",2019,"Toolik","89MAT",1,"CT","Q3","Vac uli",0
+"59",2019,"Toolik","89MAT",1,"CT","Q3","Vac vit",0.153061224489796
+"60",2019,"Toolik","89MAT",1,"CT","Q3","Win kill",0
+"61",2019,"Toolik","89MAT",1,"CT","Q4","And pol",0
+"62",2019,"Toolik","89MAT",1,"CT","Q4","bare",0
+"63",2019,"Toolik","89MAT",1,"CT","Q4","Bet nan",0.0637450199203187
+"64",2019,"Toolik","89MAT",1,"CT","Q4","Car big",0.0159362549800797
+"65",2019,"Toolik","89MAT",1,"CT","Q4","Cas tet",0.0239043824701195
+"66",2019,"Toolik","89MAT",1,"CT","Q4","Emp nig",0.047808764940239
+"67",2019,"Toolik","89MAT",1,"CT","Q4","Eri vag",0.111553784860558
+"68",2019,"Toolik","89MAT",1,"CT","Q4","fr boil",0
+"69",2019,"Toolik","89MAT",1,"CT","Q4","Led pal",0.183266932270916
+"70",2019,"Toolik","89MAT",1,"CT","Q4","lichen",0.0239043824701195
+"71",2019,"Toolik","89MAT",1,"CT","Q4","litter",0.0637450199203187
+"72",2019,"Toolik","89MAT",1,"CT","Q4","moss",0.175298804780877
+"73",2019,"Toolik","89MAT",1,"CT","Q4","Ped lap",0.00398406374501992
+"74",2019,"Toolik","89MAT",1,"CT","Q4","Pol bis",0.00398406374501992
+"75",2019,"Toolik","89MAT",1,"CT","Q4","Rub cha",0.0717131474103586
+"76",2019,"Toolik","89MAT",1,"CT","Q4","Sal pul",0.0557768924302789
+"77",2019,"Toolik","89MAT",1,"CT","Q4","Std Bet",0.00398406374501992
+"78",2019,"Toolik","89MAT",1,"CT","Q4","Vac uli",0.0318725099601594
+"79",2019,"Toolik","89MAT",1,"CT","Q4","Vac vit",0.119521912350598
+"80",2019,"Toolik","89MAT",1,"CT","Q4","Win kill",0
+"81",2019,"Toolik","89MAT",1,"CT","Q5","And pol",0.0516129032258065
+"82",2019,"Toolik","89MAT",1,"CT","Q5","bare",0
+"83",2019,"Toolik","89MAT",1,"CT","Q5","Bet nan",0.0903225806451613
+"84",2019,"Toolik","89MAT",1,"CT","Q5","Car big",0.0129032258064516
+"85",2019,"Toolik","89MAT",1,"CT","Q5","Cas tet",0.0387096774193548
+"86",2019,"Toolik","89MAT",1,"CT","Q5","Emp nig",0.103225806451613
+"87",2019,"Toolik","89MAT",1,"CT","Q5","Eri vag",0.0774193548387097
+"88",2019,"Toolik","89MAT",1,"CT","Q5","fr boil",0
+"89",2019,"Toolik","89MAT",1,"CT","Q5","Led pal",0.0387096774193548
+"90",2019,"Toolik","89MAT",1,"CT","Q5","lichen",0.0258064516129032
+"91",2019,"Toolik","89MAT",1,"CT","Q5","litter",0.0645161290322581
+"92",2019,"Toolik","89MAT",1,"CT","Q5","moss",0.180645161290323
+"93",2019,"Toolik","89MAT",1,"CT","Q5","Ped lap",0.0129032258064516
+"94",2019,"Toolik","89MAT",1,"CT","Q5","Pol bis",0
+"95",2019,"Toolik","89MAT",1,"CT","Q5","Rub cha",0.0903225806451613
+"96",2019,"Toolik","89MAT",1,"CT","Q5","Sal pul",0.0387096774193548
+"97",2019,"Toolik","89MAT",1,"CT","Q5","Std Bet",0.00645161290322581
+"98",2019,"Toolik","89MAT",1,"CT","Q5","Vac uli",0
+"99",2019,"Toolik","89MAT",1,"CT","Q5","Vac vit",0.167741935483871
+"100",2019,"Toolik","89MAT",1,"CT","Q5","Win kill",0
+"101",2019,"Toolik","89MAT",1,"CT","Q6","And pol",0
+"102",2019,"Toolik","89MAT",1,"CT","Q6","bare",0
+"103",2019,"Toolik","89MAT",1,"CT","Q6","Bet nan",0.111111111111111
+"104",2019,"Toolik","89MAT",1,"CT","Q6","Car big",0
+"105",2019,"Toolik","89MAT",1,"CT","Q6","Cas tet",0.1
+"106",2019,"Toolik","89MAT",1,"CT","Q6","Emp nig",0.0222222222222222
+"107",2019,"Toolik","89MAT",1,"CT","Q6","Eri vag",0.366666666666667
+"108",2019,"Toolik","89MAT",1,"CT","Q6","fr boil",0
+"109",2019,"Toolik","89MAT",1,"CT","Q6","Led pal",0.0666666666666667
+"110",2019,"Toolik","89MAT",1,"CT","Q6","lichen",0.0333333333333333
+"111",2019,"Toolik","89MAT",1,"CT","Q6","litter",0.111111111111111
+"112",2019,"Toolik","89MAT",1,"CT","Q6","moss",0.0777777777777778
+"113",2019,"Toolik","89MAT",1,"CT","Q6","Ped lap",0.00555555555555556
+"114",2019,"Toolik","89MAT",1,"CT","Q6","Pol bis",0
+"115",2019,"Toolik","89MAT",1,"CT","Q6","Rub cha",0.0333333333333333
+"116",2019,"Toolik","89MAT",1,"CT","Q6","Sal pul",0
+"117",2019,"Toolik","89MAT",1,"CT","Q6","Std Bet",0.00555555555555556
+"118",2019,"Toolik","89MAT",1,"CT","Q6","Vac uli",0
+"119",2019,"Toolik","89MAT",1,"CT","Q6","Vac vit",0.0666666666666667
+"120",2019,"Toolik","89MAT",1,"CT","Q6","Win kill",0
+"121",2019,"Toolik","89MAT",1,"CT","Q7","And pol",0
+"122",2019,"Toolik","89MAT",1,"CT","Q7","bare",0
+"123",2019,"Toolik","89MAT",1,"CT","Q7","Bet nan",0.0865384615384615
+"124",2019,"Toolik","89MAT",1,"CT","Q7","Car big",0
+"125",2019,"Toolik","89MAT",1,"CT","Q7","Cas tet",0.00480769230769231
+"126",2019,"Toolik","89MAT",1,"CT","Q7","Emp nig",0.00480769230769231
+"127",2019,"Toolik","89MAT",1,"CT","Q7","Eri vag",0.259615384615385
+"128",2019,"Toolik","89MAT",1,"CT","Q7","fr boil",0
+"129",2019,"Toolik","89MAT",1,"CT","Q7","Led pal",0.144230769230769
+"130",2019,"Toolik","89MAT",1,"CT","Q7","lichen",0.0576923076923077
+"131",2019,"Toolik","89MAT",1,"CT","Q7","litter",0.0865384615384615
+"132",2019,"Toolik","89MAT",1,"CT","Q7","moss",0.259615384615385
+"133",2019,"Toolik","89MAT",1,"CT","Q7","Ped lap",0.00480769230769231
+"134",2019,"Toolik","89MAT",1,"CT","Q7","Pol bis",0
+"135",2019,"Toolik","89MAT",1,"CT","Q7","Rub cha",0.0192307692307692
+"136",2019,"Toolik","89MAT",1,"CT","Q7","Sal pul",0.00961538461538462
+"137",2019,"Toolik","89MAT",1,"CT","Q7","Std Bet",0
+"138",2019,"Toolik","89MAT",1,"CT","Q7","Vac uli",0
+"139",2019,"Toolik","89MAT",1,"CT","Q7","Vac vit",0.0576923076923077
+"140",2019,"Toolik","89MAT",1,"CT","Q7","Win kill",0.00480769230769231
+"141",2019,"Toolik","89MAT",1,"CT","Q8","And pol",0
+"142",2019,"Toolik","89MAT",1,"CT","Q8","bare",0
+"143",2019,"Toolik","89MAT",1,"CT","Q8","Bet nan",0.119047619047619
+"144",2019,"Toolik","89MAT",1,"CT","Q8","Car big",0
+"145",2019,"Toolik","89MAT",1,"CT","Q8","Cas tet",0.0238095238095238
+"146",2019,"Toolik","89MAT",1,"CT","Q8","Emp nig",0.0119047619047619
+"147",2019,"Toolik","89MAT",1,"CT","Q8","Eri vag",0.119047619047619
+"148",2019,"Toolik","89MAT",1,"CT","Q8","fr boil",0
+"149",2019,"Toolik","89MAT",1,"CT","Q8","Led pal",0.142857142857143
+"150",2019,"Toolik","89MAT",1,"CT","Q8","lichen",0.0119047619047619
+"151",2019,"Toolik","89MAT",1,"CT","Q8","litter",0.0714285714285714
+"152",2019,"Toolik","89MAT",1,"CT","Q8","moss",0.214285714285714
+"153",2019,"Toolik","89MAT",1,"CT","Q8","Ped lap",0.00595238095238095
+"154",2019,"Toolik","89MAT",1,"CT","Q8","Pol bis",0.0119047619047619
+"155",2019,"Toolik","89MAT",1,"CT","Q8","Rub cha",0.107142857142857
+"156",2019,"Toolik","89MAT",1,"CT","Q8","Sal pul",0.00595238095238095
+"157",2019,"Toolik","89MAT",1,"CT","Q8","Std Bet",0.00595238095238095
+"158",2019,"Toolik","89MAT",1,"CT","Q8","Vac uli",0.0357142857142857
+"159",2019,"Toolik","89MAT",1,"CT","Q8","Vac vit",0.107142857142857
+"160",2019,"Toolik","89MAT",1,"CT","Q8","Win kill",0.00595238095238095
+"161",2019,"Toolik","89MAT",1,"GHNP","Q1","And pol",0
+"162",2019,"Toolik","89MAT",1,"GHNP","Q1","bare",0
+"163",2019,"Toolik","89MAT",1,"GHNP","Q1","Bet nan",0.425925925925926
+"164",2019,"Toolik","89MAT",1,"GHNP","Q1","Car big",0
+"165",2019,"Toolik","89MAT",1,"GHNP","Q1","Cas tet",0
+"166",2019,"Toolik","89MAT",1,"GHNP","Q1","Emp nig",0
+"167",2019,"Toolik","89MAT",1,"GHNP","Q1","Eri vag",0
+"168",2019,"Toolik","89MAT",1,"GHNP","Q1","fr boil",0
+"169",2019,"Toolik","89MAT",1,"GHNP","Q1","Led pal",0.0185185185185185
+"170",2019,"Toolik","89MAT",1,"GHNP","Q1","lichen",0
+"171",2019,"Toolik","89MAT",1,"GHNP","Q1","litter",0.0925925925925926
+"172",2019,"Toolik","89MAT",1,"GHNP","Q1","moss",0.0277777777777778
+"173",2019,"Toolik","89MAT",1,"GHNP","Q1","Ped lap",0
+"174",2019,"Toolik","89MAT",1,"GHNP","Q1","Pol bis",0
+"175",2019,"Toolik","89MAT",1,"GHNP","Q1","Rub cha",0.240740740740741
+"176",2019,"Toolik","89MAT",1,"GHNP","Q1","Sal pul",0
+"177",2019,"Toolik","89MAT",1,"GHNP","Q1","Std Bet",0.194444444444444
+"178",2019,"Toolik","89MAT",1,"GHNP","Q1","Vac uli",0
+"179",2019,"Toolik","89MAT",1,"GHNP","Q1","Vac vit",0
+"180",2019,"Toolik","89MAT",1,"GHNP","Q1","Win kill",0
+"181",2019,"Toolik","89MAT",1,"GHNP","Q2","And pol",0
+"182",2019,"Toolik","89MAT",1,"GHNP","Q2","bare",0
+"183",2019,"Toolik","89MAT",1,"GHNP","Q2","Bet nan",0.417910447761194
+"184",2019,"Toolik","89MAT",1,"GHNP","Q2","Car big",0
+"185",2019,"Toolik","89MAT",1,"GHNP","Q2","Cas tet",0
+"186",2019,"Toolik","89MAT",1,"GHNP","Q2","Emp nig",0
+"187",2019,"Toolik","89MAT",1,"GHNP","Q2","Eri vag",0
+"188",2019,"Toolik","89MAT",1,"GHNP","Q2","fr boil",0
+"189",2019,"Toolik","89MAT",1,"GHNP","Q2","Led pal",0.0199004975124378
+"190",2019,"Toolik","89MAT",1,"GHNP","Q2","lichen",0
+"191",2019,"Toolik","89MAT",1,"GHNP","Q2","litter",0.0895522388059701
+"192",2019,"Toolik","89MAT",1,"GHNP","Q2","moss",0.00995024875621891
+"193",2019,"Toolik","89MAT",1,"GHNP","Q2","Ped lap",0
+"194",2019,"Toolik","89MAT",1,"GHNP","Q2","Pol bis",0
+"195",2019,"Toolik","89MAT",1,"GHNP","Q2","Rub cha",0.278606965174129
+"196",2019,"Toolik","89MAT",1,"GHNP","Q2","Sal pul",0
+"197",2019,"Toolik","89MAT",1,"GHNP","Q2","Std Bet",0.17910447761194
+"198",2019,"Toolik","89MAT",1,"GHNP","Q2","Vac uli",0
+"199",2019,"Toolik","89MAT",1,"GHNP","Q2","Vac vit",0
+"200",2019,"Toolik","89MAT",1,"GHNP","Q2","Win kill",0.00497512437810945
+"201",2019,"Toolik","89MAT",1,"GHNP","Q3","And pol",0
+"202",2019,"Toolik","89MAT",1,"GHNP","Q3","bare",0
+"203",2019,"Toolik","89MAT",1,"GHNP","Q3","Bet nan",0.75
+"204",2019,"Toolik","89MAT",1,"GHNP","Q3","Car big",0
+"205",2019,"Toolik","89MAT",1,"GHNP","Q3","Cas tet",0
+"206",2019,"Toolik","89MAT",1,"GHNP","Q3","Emp nig",0
+"207",2019,"Toolik","89MAT",1,"GHNP","Q3","Eri vag",0
+"208",2019,"Toolik","89MAT",1,"GHNP","Q3","fr boil",0
+"209",2019,"Toolik","89MAT",1,"GHNP","Q3","Led pal",0.0288461538461538
+"210",2019,"Toolik","89MAT",1,"GHNP","Q3","lichen",0
+"211",2019,"Toolik","89MAT",1,"GHNP","Q3","litter",0.0288461538461538
+"212",2019,"Toolik","89MAT",1,"GHNP","Q3","moss",0
+"213",2019,"Toolik","89MAT",1,"GHNP","Q3","Ped lap",0
+"214",2019,"Toolik","89MAT",1,"GHNP","Q3","Pol bis",0
+"215",2019,"Toolik","89MAT",1,"GHNP","Q3","Rub cha",0.0769230769230769
+"216",2019,"Toolik","89MAT",1,"GHNP","Q3","Sal pul",0
+"217",2019,"Toolik","89MAT",1,"GHNP","Q3","Std Bet",0.115384615384615
+"218",2019,"Toolik","89MAT",1,"GHNP","Q3","Vac uli",0
+"219",2019,"Toolik","89MAT",1,"GHNP","Q3","Vac vit",0
+"220",2019,"Toolik","89MAT",1,"GHNP","Q3","Win kill",0
+"221",2019,"Toolik","89MAT",1,"GHNP","Q4","And pol",0
+"222",2019,"Toolik","89MAT",1,"GHNP","Q4","bare",0
+"223",2019,"Toolik","89MAT",1,"GHNP","Q4","Bet nan",0.384279475982533
+"224",2019,"Toolik","89MAT",1,"GHNP","Q4","Car big",0
+"225",2019,"Toolik","89MAT",1,"GHNP","Q4","Cas tet",0
+"226",2019,"Toolik","89MAT",1,"GHNP","Q4","Emp nig",0
+"227",2019,"Toolik","89MAT",1,"GHNP","Q4","Eri vag",0
+"228",2019,"Toolik","89MAT",1,"GHNP","Q4","fr boil",0
+"229",2019,"Toolik","89MAT",1,"GHNP","Q4","Led pal",0.0349344978165939
+"230",2019,"Toolik","89MAT",1,"GHNP","Q4","lichen",0.00436681222707424
+"231",2019,"Toolik","89MAT",1,"GHNP","Q4","litter",0.200873362445415
+"232",2019,"Toolik","89MAT",1,"GHNP","Q4","moss",0
+"233",2019,"Toolik","89MAT",1,"GHNP","Q4","Ped lap",0
+"234",2019,"Toolik","89MAT",1,"GHNP","Q4","Pol bis",0
+"235",2019,"Toolik","89MAT",1,"GHNP","Q4","Rub cha",0.165938864628821
+"236",2019,"Toolik","89MAT",1,"GHNP","Q4","Sal pul",0
+"237",2019,"Toolik","89MAT",1,"GHNP","Q4","Std Bet",0.209606986899563
+"238",2019,"Toolik","89MAT",1,"GHNP","Q4","Vac uli",0
+"239",2019,"Toolik","89MAT",1,"GHNP","Q4","Vac vit",0
+"240",2019,"Toolik","89MAT",1,"GHNP","Q4","Win kill",0
+"241",2019,"Toolik","89MAT",1,"GHNP","Q5","And pol",0
+"242",2019,"Toolik","89MAT",1,"GHNP","Q5","bare",0
+"243",2019,"Toolik","89MAT",1,"GHNP","Q5","Bet nan",0.584905660377358
+"244",2019,"Toolik","89MAT",1,"GHNP","Q5","Car big",0
+"245",2019,"Toolik","89MAT",1,"GHNP","Q5","Cas tet",0
+"246",2019,"Toolik","89MAT",1,"GHNP","Q5","Emp nig",0
+"247",2019,"Toolik","89MAT",1,"GHNP","Q5","Eri vag",0
+"248",2019,"Toolik","89MAT",1,"GHNP","Q5","fr boil",0
+"249",2019,"Toolik","89MAT",1,"GHNP","Q5","Led pal",0.0283018867924528
+"250",2019,"Toolik","89MAT",1,"GHNP","Q5","lichen",0.00471698113207547
+"251",2019,"Toolik","89MAT",1,"GHNP","Q5","litter",0.122641509433962
+"252",2019,"Toolik","89MAT",1,"GHNP","Q5","moss",0.00471698113207547
+"253",2019,"Toolik","89MAT",1,"GHNP","Q5","Ped lap",0
+"254",2019,"Toolik","89MAT",1,"GHNP","Q5","Pol bis",0
+"255",2019,"Toolik","89MAT",1,"GHNP","Q5","Rub cha",0.0943396226415094
+"256",2019,"Toolik","89MAT",1,"GHNP","Q5","Sal pul",0
+"257",2019,"Toolik","89MAT",1,"GHNP","Q5","Std Bet",0.160377358490566
+"258",2019,"Toolik","89MAT",1,"GHNP","Q5","Vac uli",0
+"259",2019,"Toolik","89MAT",1,"GHNP","Q5","Vac vit",0
+"260",2019,"Toolik","89MAT",1,"GHNP","Q5","Win kill",0
+"261",2019,"Toolik","89MAT",1,"GHNP","Q6","And pol",0
+"262",2019,"Toolik","89MAT",1,"GHNP","Q6","bare",0
+"263",2019,"Toolik","89MAT",1,"GHNP","Q6","Bet nan",0.642487046632124
+"264",2019,"Toolik","89MAT",1,"GHNP","Q6","Car big",0
+"265",2019,"Toolik","89MAT",1,"GHNP","Q6","Cas tet",0
+"266",2019,"Toolik","89MAT",1,"GHNP","Q6","Emp nig",0
+"267",2019,"Toolik","89MAT",1,"GHNP","Q6","Eri vag",0
+"268",2019,"Toolik","89MAT",1,"GHNP","Q6","fr boil",0
+"269",2019,"Toolik","89MAT",1,"GHNP","Q6","Led pal",0.0310880829015544
+"270",2019,"Toolik","89MAT",1,"GHNP","Q6","lichen",0
+"271",2019,"Toolik","89MAT",1,"GHNP","Q6","litter",0.0414507772020725
+"272",2019,"Toolik","89MAT",1,"GHNP","Q6","moss",0.00518134715025907
+"273",2019,"Toolik","89MAT",1,"GHNP","Q6","Ped lap",0
+"274",2019,"Toolik","89MAT",1,"GHNP","Q6","Pol bis",0
+"275",2019,"Toolik","89MAT",1,"GHNP","Q6","Rub cha",0.103626943005181
+"276",2019,"Toolik","89MAT",1,"GHNP","Q6","Sal pul",0
+"277",2019,"Toolik","89MAT",1,"GHNP","Q6","Std Bet",0.176165803108808
+"278",2019,"Toolik","89MAT",1,"GHNP","Q6","Vac uli",0
+"279",2019,"Toolik","89MAT",1,"GHNP","Q6","Vac vit",0
+"280",2019,"Toolik","89MAT",1,"GHNP","Q6","Win kill",0
+"281",2019,"Toolik","89MAT",1,"GHNP","Q7","And pol",0
+"282",2019,"Toolik","89MAT",1,"GHNP","Q7","bare",0
+"283",2019,"Toolik","89MAT",1,"GHNP","Q7","Bet nan",0.257777777777778
+"284",2019,"Toolik","89MAT",1,"GHNP","Q7","Car big",0
+"285",2019,"Toolik","89MAT",1,"GHNP","Q7","Cas tet",0
+"286",2019,"Toolik","89MAT",1,"GHNP","Q7","Emp nig",0
+"287",2019,"Toolik","89MAT",1,"GHNP","Q7","Eri vag",0
+"288",2019,"Toolik","89MAT",1,"GHNP","Q7","fr boil",0
+"289",2019,"Toolik","89MAT",1,"GHNP","Q7","Led pal",0.0177777777777778
+"290",2019,"Toolik","89MAT",1,"GHNP","Q7","lichen",0.00444444444444444
+"291",2019,"Toolik","89MAT",1,"GHNP","Q7","litter",0.213333333333333
+"292",2019,"Toolik","89MAT",1,"GHNP","Q7","moss",0
+"293",2019,"Toolik","89MAT",1,"GHNP","Q7","Ped lap",0
+"294",2019,"Toolik","89MAT",1,"GHNP","Q7","Pol bis",0
+"295",2019,"Toolik","89MAT",1,"GHNP","Q7","Rub cha",0.284444444444444
+"296",2019,"Toolik","89MAT",1,"GHNP","Q7","Sal pul",0
+"297",2019,"Toolik","89MAT",1,"GHNP","Q7","Std Bet",0.213333333333333
+"298",2019,"Toolik","89MAT",1,"GHNP","Q7","Vac uli",0.00444444444444444
+"299",2019,"Toolik","89MAT",1,"GHNP","Q7","Vac vit",0
+"300",2019,"Toolik","89MAT",1,"GHNP","Q7","Win kill",0.00444444444444444
+"301",2019,"Toolik","89MAT",1,"GHNP","Q8","And pol",0
+"302",2019,"Toolik","89MAT",1,"GHNP","Q8","bare",0
+"303",2019,"Toolik","89MAT",1,"GHNP","Q8","Bet nan",0.288659793814433
+"304",2019,"Toolik","89MAT",1,"GHNP","Q8","Car big",0
+"305",2019,"Toolik","89MAT",1,"GHNP","Q8","Cas tet",0
+"306",2019,"Toolik","89MAT",1,"GHNP","Q8","Emp nig",0
+"307",2019,"Toolik","89MAT",1,"GHNP","Q8","Eri vag",0
+"308",2019,"Toolik","89MAT",1,"GHNP","Q8","fr boil",0
+"309",2019,"Toolik","89MAT",1,"GHNP","Q8","Led pal",0.0103092783505155
+"310",2019,"Toolik","89MAT",1,"GHNP","Q8","lichen",0
+"311",2019,"Toolik","89MAT",1,"GHNP","Q8","litter",0.134020618556701
+"312",2019,"Toolik","89MAT",1,"GHNP","Q8","moss",0
+"313",2019,"Toolik","89MAT",1,"GHNP","Q8","Ped lap",0
+"314",2019,"Toolik","89MAT",1,"GHNP","Q8","Pol bis",0
+"315",2019,"Toolik","89MAT",1,"GHNP","Q8","Rub cha",0.319587628865979
+"316",2019,"Toolik","89MAT",1,"GHNP","Q8","Sal pul",0
+"317",2019,"Toolik","89MAT",1,"GHNP","Q8","Std Bet",0.247422680412371
+"318",2019,"Toolik","89MAT",1,"GHNP","Q8","Vac uli",0
+"319",2019,"Toolik","89MAT",1,"GHNP","Q8","Vac vit",0
+"320",2019,"Toolik","89MAT",1,"GHNP","Q8","Win kill",0
+"321",2019,"Toolik","89MAT",2,"GHNP","Q1","And pol",0
+"322",2019,"Toolik","89MAT",2,"GHNP","Q1","bare",0
+"323",2019,"Toolik","89MAT",2,"GHNP","Q1","Bet nan",0.684782608695652
+"324",2019,"Toolik","89MAT",2,"GHNP","Q1","Car big",0
+"325",2019,"Toolik","89MAT",2,"GHNP","Q1","Cas tet",0
+"326",2019,"Toolik","89MAT",2,"GHNP","Q1","Emp nig",0
+"327",2019,"Toolik","89MAT",2,"GHNP","Q1","Eri vag",0
+"328",2019,"Toolik","89MAT",2,"GHNP","Q1","fr boil",0
+"329",2019,"Toolik","89MAT",2,"GHNP","Q1","Led pal",0.0326086956521739
+"330",2019,"Toolik","89MAT",2,"GHNP","Q1","lichen",0
+"331",2019,"Toolik","89MAT",2,"GHNP","Q1","litter",0.0326086956521739
+"332",2019,"Toolik","89MAT",2,"GHNP","Q1","moss",0
+"333",2019,"Toolik","89MAT",2,"GHNP","Q1","Ped lap",0
+"334",2019,"Toolik","89MAT",2,"GHNP","Q1","Pol bis",0
+"335",2019,"Toolik","89MAT",2,"GHNP","Q1","Rub cha",0.119565217391304
+"336",2019,"Toolik","89MAT",2,"GHNP","Q1","Sal pul",0
+"337",2019,"Toolik","89MAT",2,"GHNP","Q1","Std Bet",0.130434782608696
+"338",2019,"Toolik","89MAT",2,"GHNP","Q1","Vac uli",0
+"339",2019,"Toolik","89MAT",2,"GHNP","Q1","Vac vit",0
+"340",2019,"Toolik","89MAT",2,"GHNP","Q1","Win kill",0
+"341",2019,"Toolik","89MAT",2,"GHNP","Q2","And pol",0
+"342",2019,"Toolik","89MAT",2,"GHNP","Q2","bare",0
+"343",2019,"Toolik","89MAT",2,"GHNP","Q2","Bet nan",0.28125
+"344",2019,"Toolik","89MAT",2,"GHNP","Q2","Car big",0
+"345",2019,"Toolik","89MAT",2,"GHNP","Q2","Cas tet",0
+"346",2019,"Toolik","89MAT",2,"GHNP","Q2","Emp nig",0
+"347",2019,"Toolik","89MAT",2,"GHNP","Q2","Eri vag",0
+"348",2019,"Toolik","89MAT",2,"GHNP","Q2","fr boil",0
+"349",2019,"Toolik","89MAT",2,"GHNP","Q2","Led pal",0.0546875
+"350",2019,"Toolik","89MAT",2,"GHNP","Q2","lichen",0
+"351",2019,"Toolik","89MAT",2,"GHNP","Q2","litter",0.0859375
+"352",2019,"Toolik","89MAT",2,"GHNP","Q2","moss",0
+"353",2019,"Toolik","89MAT",2,"GHNP","Q2","Ped lap",0
+"354",2019,"Toolik","89MAT",2,"GHNP","Q2","Pol bis",0
+"355",2019,"Toolik","89MAT",2,"GHNP","Q2","Rub cha",0.25
+"356",2019,"Toolik","89MAT",2,"GHNP","Q2","Sal pul",0
+"357",2019,"Toolik","89MAT",2,"GHNP","Q2","Std Bet",0.328125
+"358",2019,"Toolik","89MAT",2,"GHNP","Q2","Vac uli",0
+"359",2019,"Toolik","89MAT",2,"GHNP","Q2","Vac vit",0
+"360",2019,"Toolik","89MAT",2,"GHNP","Q2","Win kill",0
+"361",2019,"Toolik","89MAT",2,"GHNP","Q3","And pol",0
+"362",2019,"Toolik","89MAT",2,"GHNP","Q3","bare",0
+"363",2019,"Toolik","89MAT",2,"GHNP","Q3","Bet nan",0.160642570281124
+"364",2019,"Toolik","89MAT",2,"GHNP","Q3","Car big",0
+"365",2019,"Toolik","89MAT",2,"GHNP","Q3","Cas tet",0
+"366",2019,"Toolik","89MAT",2,"GHNP","Q3","Emp nig",0
+"367",2019,"Toolik","89MAT",2,"GHNP","Q3","Eri vag",0.00401606425702811
+"368",2019,"Toolik","89MAT",2,"GHNP","Q3","fr boil",0
+"369",2019,"Toolik","89MAT",2,"GHNP","Q3","Led pal",0.0481927710843374
+"370",2019,"Toolik","89MAT",2,"GHNP","Q3","lichen",0
+"371",2019,"Toolik","89MAT",2,"GHNP","Q3","litter",0.160642570281124
+"372",2019,"Toolik","89MAT",2,"GHNP","Q3","moss",0
+"373",2019,"Toolik","89MAT",2,"GHNP","Q3","Ped lap",0
+"374",2019,"Toolik","89MAT",2,"GHNP","Q3","Pol bis",0
+"375",2019,"Toolik","89MAT",2,"GHNP","Q3","Rub cha",0.497991967871486
+"376",2019,"Toolik","89MAT",2,"GHNP","Q3","Sal pul",0
+"377",2019,"Toolik","89MAT",2,"GHNP","Q3","Std Bet",0.1285140562249
+"378",2019,"Toolik","89MAT",2,"GHNP","Q3","Vac uli",0
+"379",2019,"Toolik","89MAT",2,"GHNP","Q3","Vac vit",0
+"380",2019,"Toolik","89MAT",2,"GHNP","Q3","Win kill",0
+"381",2019,"Toolik","89MAT",2,"GHNP","Q4","And pol",0
+"382",2019,"Toolik","89MAT",2,"GHNP","Q4","bare",0
+"383",2019,"Toolik","89MAT",2,"GHNP","Q4","Bet nan",0.35
+"384",2019,"Toolik","89MAT",2,"GHNP","Q4","Car big",0
+"385",2019,"Toolik","89MAT",2,"GHNP","Q4","Cas tet",0
+"386",2019,"Toolik","89MAT",2,"GHNP","Q4","Emp nig",0
+"387",2019,"Toolik","89MAT",2,"GHNP","Q4","Eri vag",0
+"388",2019,"Toolik","89MAT",2,"GHNP","Q4","fr boil",0
+"389",2019,"Toolik","89MAT",2,"GHNP","Q4","Led pal",0.025
+"390",2019,"Toolik","89MAT",2,"GHNP","Q4","lichen",0
+"391",2019,"Toolik","89MAT",2,"GHNP","Q4","litter",0.175
+"392",2019,"Toolik","89MAT",2,"GHNP","Q4","moss",0
+"393",2019,"Toolik","89MAT",2,"GHNP","Q4","Ped lap",0
+"394",2019,"Toolik","89MAT",2,"GHNP","Q4","Pol bis",0
+"395",2019,"Toolik","89MAT",2,"GHNP","Q4","Rub cha",0.383333333333333
+"396",2019,"Toolik","89MAT",2,"GHNP","Q4","Sal pul",0
+"397",2019,"Toolik","89MAT",2,"GHNP","Q4","Std Bet",0.0666666666666667
+"398",2019,"Toolik","89MAT",2,"GHNP","Q4","Vac uli",0
+"399",2019,"Toolik","89MAT",2,"GHNP","Q4","Vac vit",0
+"400",2019,"Toolik","89MAT",2,"GHNP","Q4","Win kill",0
+"401",2019,"Toolik","89MAT",2,"GHNP","Q5","And pol",0
+"402",2019,"Toolik","89MAT",2,"GHNP","Q5","bare",0
+"403",2019,"Toolik","89MAT",2,"GHNP","Q5","Bet nan",0.209205020920502
+"404",2019,"Toolik","89MAT",2,"GHNP","Q5","Car big",0
+"405",2019,"Toolik","89MAT",2,"GHNP","Q5","Cas tet",0
+"406",2019,"Toolik","89MAT",2,"GHNP","Q5","Emp nig",0
+"407",2019,"Toolik","89MAT",2,"GHNP","Q5","Eri vag",0.0167364016736402
+"408",2019,"Toolik","89MAT",2,"GHNP","Q5","fr boil",0
+"409",2019,"Toolik","89MAT",2,"GHNP","Q5","Led pal",0.00418410041841004
+"410",2019,"Toolik","89MAT",2,"GHNP","Q5","lichen",0
+"411",2019,"Toolik","89MAT",2,"GHNP","Q5","litter",0.184100418410042
+"412",2019,"Toolik","89MAT",2,"GHNP","Q5","moss",0
+"413",2019,"Toolik","89MAT",2,"GHNP","Q5","Ped lap",0
+"414",2019,"Toolik","89MAT",2,"GHNP","Q5","Pol bis",0
+"415",2019,"Toolik","89MAT",2,"GHNP","Q5","Rub cha",0.485355648535565
+"416",2019,"Toolik","89MAT",2,"GHNP","Q5","Sal pul",0
+"417",2019,"Toolik","89MAT",2,"GHNP","Q5","Std Bet",0.100418410041841
+"418",2019,"Toolik","89MAT",2,"GHNP","Q5","Vac uli",0
+"419",2019,"Toolik","89MAT",2,"GHNP","Q5","Vac vit",0
+"420",2019,"Toolik","89MAT",2,"GHNP","Q5","Win kill",0
+"421",2019,"Toolik","89MAT",2,"GHNP","Q6","And pol",0
+"422",2019,"Toolik","89MAT",2,"GHNP","Q6","bare",0
+"423",2019,"Toolik","89MAT",2,"GHNP","Q6","Bet nan",0.229007633587786
+"424",2019,"Toolik","89MAT",2,"GHNP","Q6","Car big",0
+"425",2019,"Toolik","89MAT",2,"GHNP","Q6","Cas tet",0
+"426",2019,"Toolik","89MAT",2,"GHNP","Q6","Emp nig",0
+"427",2019,"Toolik","89MAT",2,"GHNP","Q6","Eri vag",0
+"428",2019,"Toolik","89MAT",2,"GHNP","Q6","fr boil",0
+"429",2019,"Toolik","89MAT",2,"GHNP","Q6","Led pal",0.0152671755725191
+"430",2019,"Toolik","89MAT",2,"GHNP","Q6","lichen",0
+"431",2019,"Toolik","89MAT",2,"GHNP","Q6","litter",0.106870229007634
+"432",2019,"Toolik","89MAT",2,"GHNP","Q6","moss",0
+"433",2019,"Toolik","89MAT",2,"GHNP","Q6","Ped lap",0
+"434",2019,"Toolik","89MAT",2,"GHNP","Q6","Pol bis",0
+"435",2019,"Toolik","89MAT",2,"GHNP","Q6","Rub cha",0.480916030534351
+"436",2019,"Toolik","89MAT",2,"GHNP","Q6","Sal pul",0
+"437",2019,"Toolik","89MAT",2,"GHNP","Q6","Std Bet",0.16793893129771
+"438",2019,"Toolik","89MAT",2,"GHNP","Q6","Vac uli",0
+"439",2019,"Toolik","89MAT",2,"GHNP","Q6","Vac vit",0
+"440",2019,"Toolik","89MAT",2,"GHNP","Q6","Win kill",0
+"441",2019,"Toolik","89MAT",2,"GHNP","Q7","And pol",0.419512195121951
+"442",2019,"Toolik","89MAT",2,"GHNP","Q7","bare",0
+"443",2019,"Toolik","89MAT",2,"GHNP","Q7","Bet nan",0
+"444",2019,"Toolik","89MAT",2,"GHNP","Q7","Car big",0
+"445",2019,"Toolik","89MAT",2,"GHNP","Q7","Cas tet",0
+"446",2019,"Toolik","89MAT",2,"GHNP","Q7","Emp nig",0
+"447",2019,"Toolik","89MAT",2,"GHNP","Q7","Eri vag",0.0292682926829268
+"448",2019,"Toolik","89MAT",2,"GHNP","Q7","fr boil",0
+"449",2019,"Toolik","89MAT",2,"GHNP","Q7","Led pal",0
+"450",2019,"Toolik","89MAT",2,"GHNP","Q7","lichen",0.15609756097561
+"451",2019,"Toolik","89MAT",2,"GHNP","Q7","litter",0
+"452",2019,"Toolik","89MAT",2,"GHNP","Q7","moss",0
+"453",2019,"Toolik","89MAT",2,"GHNP","Q7","Ped lap",0
+"454",2019,"Toolik","89MAT",2,"GHNP","Q7","Pol bis",0.31219512195122
+"455",2019,"Toolik","89MAT",2,"GHNP","Q7","Rub cha",0
+"456",2019,"Toolik","89MAT",2,"GHNP","Q7","Sal pul",0
+"457",2019,"Toolik","89MAT",2,"GHNP","Q7","Std Bet",0
+"458",2019,"Toolik","89MAT",2,"GHNP","Q7","Vac uli",0.0048780487804878
+"459",2019,"Toolik","89MAT",2,"GHNP","Q7","Vac vit",0.0682926829268293
+"460",2019,"Toolik","89MAT",2,"GHNP","Q7","Win kill",0.00975609756097561
+"461",2019,"Toolik","89MAT",2,"GHNP","Q8","And pol",0
+"462",2019,"Toolik","89MAT",2,"GHNP","Q8","bare",0
+"463",2019,"Toolik","89MAT",2,"GHNP","Q8","Bet nan",0.604166666666667
+"464",2019,"Toolik","89MAT",2,"GHNP","Q8","Car big",0
+"465",2019,"Toolik","89MAT",2,"GHNP","Q8","Cas tet",0
+"466",2019,"Toolik","89MAT",2,"GHNP","Q8","Emp nig",0
+"467",2019,"Toolik","89MAT",2,"GHNP","Q8","Eri vag",0
+"468",2019,"Toolik","89MAT",2,"GHNP","Q8","fr boil",0
+"469",2019,"Toolik","89MAT",2,"GHNP","Q8","Led pal",0.0104166666666667
+"470",2019,"Toolik","89MAT",2,"GHNP","Q8","lichen",0
+"471",2019,"Toolik","89MAT",2,"GHNP","Q8","litter",0.0625
+"472",2019,"Toolik","89MAT",2,"GHNP","Q8","moss",0
+"473",2019,"Toolik","89MAT",2,"GHNP","Q8","Ped lap",0
+"474",2019,"Toolik","89MAT",2,"GHNP","Q8","Pol bis",0
+"475",2019,"Toolik","89MAT",2,"GHNP","Q8","Rub cha",0.15625
+"476",2019,"Toolik","89MAT",2,"GHNP","Q8","Sal pul",0
+"477",2019,"Toolik","89MAT",2,"GHNP","Q8","Std Bet",0.166666666666667
+"478",2019,"Toolik","89MAT",2,"GHNP","Q8","Vac uli",0
+"479",2019,"Toolik","89MAT",2,"GHNP","Q8","Vac vit",0
+"480",2019,"Toolik","89MAT",2,"GHNP","Q8","Win kill",0
