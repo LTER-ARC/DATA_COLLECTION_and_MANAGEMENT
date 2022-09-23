@@ -1,6 +1,4 @@
 ---
-title: "Plant Cover Field Protocol"
-author: "Nicole Williamson"
 output:
   html_document:
     toc: yes
@@ -22,9 +20,14 @@ library ("leaflet")
 toolik_locations <- read.csv("../Data/Toolik_LTER_site_location.csv")
 ```
 
+![](images/Cover_header.png)
+
 # Introduction
 
-Relative percent plant cover is measured every year across
+Plant abundance is measured as relative percent cover every year across
+multiple plant community types. We do this to monitor changes in plant
+communities over time in response to experimental manipulations like
+nutrient addition and animal exclosures.
 
 ## LTER Nutrient Addition Sites
 
@@ -87,9 +90,10 @@ HERE](https://mbl.maps.arcgis.com/apps/mapviewer/index.html?webmap=736146be65fe4
 ## Supplies
 
 -   Two or more **1 m\^2 quadrats** divided into 25 (20x20cm)
-    subquadrats: constructed out of PVC and string
+    subquadrats: constructed out of PVC and string (*typically located
+    under the lab*)
 
-    -   typically located under the lab
+![](images/cover_quadrat.png)
 
 -   **Data sheets**
 
@@ -143,12 +147,65 @@ xfun::embed_file('../Data/LTER_cover_datasheet_template.csv', text = 'Download D
     quadrant
 -   One 20x20cm sub square represents about % 4 of the area of the
     quadrant
--   Using this as a guide you will estimate the % area of the plot a
-    given species makes up. Typically it is easiest to go square by
-    square and add up as you go
+-   Using this as a guide you will estimate the area (in percent) of the
+    plot a given species makes up. Typically it is easiest to go square
+    by square and add up as you go
+    -   **TIP** - Sometimes I will intentionally overestimate the cover
+        of a species in one square if there are several squares with
+        less than \<1%. (Example: I will call a square that has 2% cover
+        of *Betula* 3% if the next few squares after it each have a very
+        small amount)
 
-**! Calibration !**
+**NOTE:** Cover will be relativized so it's okay if the quadrat totals
+do not total to 100%
+
+![](images/cover_practice.png)
+
+## **CALIBRATION**
 
 An important step before you start recording data is to **"Calibrate"**
 with the other observers to make sure you are all getting around the
-same numbers
+same numbers (within 5-10%). **Calibration should be done each time you
+do cover, any time you begin a different plant community (ex: switching
+from MAT to DHT), as well as after breaks (ex: after a lunch break)**
+
+1.  Pick one species that everyone will then practice estimating its
+    cover
+2.  Once everyone has their estimated value, have each person report the
+    number they arrived at.
+    -   The first time you do this it is common to arrive a very
+        different numbers. Some people may have overestimated while
+        others underestimated. It's also common to miss patches of the
+        species or confuse it for another.
+3.  Discuss how each person arrived at their number (ie. What they saw,
+    and how they estimated its cover)
+4.  Make a plan for how you will all estimate going forward so that you
+    all estimate in similar ways and arrive at the same numbers.
+5.  Repeat this process for multiple species until you consistently
+    arrive at similar values.
+    -   Make sure to practice with at least one of each kind of
+        functional group as they have very different structures and thus
+        might be estimated differently.
+        -   moss/lichen
+
+        -   graminoid
+
+        -   standing dead
+
+        -   litter
+
+        -   forb
+
+        -   deciduous shrub
+
+        -   evergreen shrub
+
+        -   tussock/*Eriophorum*
+
+------------------------------------------------------------------------
+
+# Answers to practice question
+
+![](images/cover_answers.png)
+
+------------------------------------------------------------------------
